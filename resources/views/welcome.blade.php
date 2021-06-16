@@ -74,7 +74,11 @@
                 height: auto;
                 background-color: #1b4b72;
             }
-
+@media screen and (min-width: 320px) and (max-width: 767px){
+.navbar{
+background-color:white;
+    
+}
         </style>
         <body>
         
@@ -86,7 +90,7 @@
             <img src="{{asset('image/project2.jpg.png')}}" class="img-fluid w-50 h-50" style="margin-left:185px">
         </a>
     </div>
-    <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#mynav"><i class="fas fa-bars"></i></button>
+    <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#mynav"><i class="fas fa-bars text-white"></i></button>
     
     <div class="navbar-collapse collapse" id="mynav">
         <ul class="navbar-nav">
