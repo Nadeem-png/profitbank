@@ -33,6 +33,10 @@
             }
             .div{
                 background-color: #1b4b72;
+                
+                height:auto;
+                margin-bottom:20px;
+
             }
 
             .bor{
@@ -44,7 +48,9 @@
                 border: 2px  #1b4b72;
                 border-radius: 20px;
             }
-
+            @media screen and (min-width: 320px) and (max-width: 480px){
+    
+}
         </style>
 
 
@@ -58,7 +64,7 @@
 
 <header class="justify-content-center flex-column">
 
-    <nav class="navbar navbar-expand-sm" style="height: 70px">
+    <nav class="navbar navbar-expand-lg" style="height: 70px">
         <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#mynav"><i class="fas fa-bars"></i></button>
         <div class="w-25">
             <a href="/" class="navbar-brand">
@@ -67,6 +73,9 @@
         </div>
         <div class="navbar-collapse collapse" id="mynav">
             <ul class="navbar-nav">
+            <li class="nav-item" @yield('nava')>
+                    <a href="/home" class="nav-link a1 font-weight-bold" style="margin-left: 100px">Home</a>
+                </li>
                 <li class="nav-item" @yield('nava')>
                     <a href="/about" class="nav-link a1 font-weight-bold" style="margin-left: 100px">About</a>
                 </li>
@@ -95,8 +104,10 @@
             </ul>
         </div>
     </nav>
-
-    <h1 class="text-white font-weight-bold p-4" style="font-size: 50px; margin-left: 200px; margin-top: 7%">
+<div class="container">
+<div class="row d-flex justify-content-left align-items-left d-column">
+<div class="col-lg col-xs col-sm col-md">
+<h1 class="text-white font-weight-bold p-4" style="font-size: 50px; margin-left: 200px; margin-top: 7%">
         The World’s First
        <br> Decentralized VC
     </h1>
@@ -109,23 +120,28 @@
         <a href="" class="btn px-5 py-3 ml-2  b2 font-weight-bold">Gains Deck</a>
     </span>
  </div>
-
+</div>
+</div>
+</div>
+    
+<div class="container-fluid">
     <div class="row div" style="height: 100px; margin-top: 100px ">
-        <div class="col text-white text-center mt-3" style="font-size: 23px">30+ <br>Projects worked with</div>
-        <div class="col text-white text-center mt-3" style="font-size: 23px">$3M+ <br>Raised for projects</div>
-        <div class="col text-white text-center mt-3" style="font-size: 23px">10,000+ <br>Active members</div>
-        <div class="col text-white text-center mt-3" style="font-size: 23px">20+ <br>Conferences attended</div>
+        <div class="col-lg col-xs-6 col-md-6 text-white text-center mt-3" style="font-size: 23px">30+ <br>Projects worked with</div>
+        <div class="col-lg col-xs-6 col-md-6 text-white text-center mt-3" style="font-size: 23px">$3M+ <br>Raised for projects</div>
+        <div class="col-lg col-xs-6 col-md-6 text-white text-center mt-3" style="font-size: 23px">10,000+ <br>Active members</div>
+        <div class="col-lg col-xs-6 col-md-6 text-white text-center mt-3" style="font-size: 23px">20+ <br>Conferences attended</div>
+    </div>
     </div>
 </header>
 
 
 
 
-<div class="div" style="height: 700px; margin-top: 100px">
+<div class="div">
     <div class="container">
         <h1 class="text-center text-white">Gains Offers you</h1>
         <div class="row">
-        <div class="col bg-white bor" style="height: 450px; margin-top: 100px;">
+        <div class="col-lg col-sm-12 col-md-12 bg-white bor" style="height: 450px; margin-top: 100px;">
     <img src="{{asset('image/images.png')}}" alt="" class="img-fluid w-25 h-25 mt-5" style="margin-left: 130px">
         <h5 class="text-center text-dark mt-5">Insightes</h5>
         <p class="text-center text-dark">
@@ -133,7 +149,7 @@
         </p>
 </div>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <div class="col bg-white bor" style="height: 450px; width: 20%; margin-top: 100px">
+    <div class="col-lg col-sm-12 col-md-12 bg-white bor" style="height: 450px; width: 20%; margin-top: 100px">
         <img src="{{asset('image/c1.jpg')}}" alt="" class="img-fluid w-25 h-25 mt-5" style="margin-left: 130px">
         <h5 class="text-center text-dark mt-5">Events</h5>
         <p class="text-center text-dark">
@@ -141,7 +157,7 @@
          </p>
 </div>
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <div class="col bg-white bor" style="height: 450px; width: 20px; margin-top: 100px">
+    <div class="col-lg col-sm-12 col-md-12 bg-white bor" style="height: 450px; width: 20px; margin-top: 100px">
         <img src="{{asset('image/handship.jpg')}}" alt="" class="img-fluid w-25 h-25 mt-5" style="margin-left: 130px">
         <h5 class="text-center text-dark mt-5">Collabrition</h5>
         <p class="text-center text-dark">
