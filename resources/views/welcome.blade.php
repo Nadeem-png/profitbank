@@ -93,6 +93,11 @@
                 margin-top: 100px;
                 height:800px;
             }
+             .div2{
+                background-color: #1b4b72;
+                border: 2px white;
+                border-radius: 20px
+            }
 @media screen and (min-width: 320px) and (max-width: 767px){
 .nav1{
 background-color:white;
@@ -310,6 +315,14 @@ background-color:white;
 
 
     </div>
+</div>
+<div class="container div2" style="height: 300px;margin-top: 100px">
+ <h1 class="text-white text-center ">Are you ready to really dive deep into <br> the Crypto universe?</h1>
+    <center><a href="" class="btn px-5 py-3 b3 font-weight-bold mt-4">Join our Telegram Group &nbsp;
+        <i class="fab fa-telegram-plane " style="font-size: 25px"></i>
+    </a>
+        <p class="text-white mt-4"><i class="fas fa-users text-white"></i> 10,000+ active people</p>
+    </center>
 </div>
 
 <div class="container" style="margin-top: 100px">
