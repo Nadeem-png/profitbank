@@ -93,8 +93,8 @@ background-color:white;
     </div>
     <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#mynav"><i class="fas fa-bars text-white"></i></button>
     
-    <div class="navbar-collapse collapse" id="mynav">
-        <ul class="navbar-nav">
+    <div class="navbar-collapse bg-dark collapse" id="mynav">
+        <ul class="navbar-nav bg-dark ">
         <li class="nav-item" @yield('nava')>
                     <a href="/home" class="nav-link a1 font-weight-bold" style="margin-left: 100px">Home</a>
                 </li>
