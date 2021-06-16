@@ -172,7 +172,7 @@ background-color:white;
     </div>
     <div class="container container-sm" style=";margin-top: 100px">
     <h1 class="text-center" style="margin-bottom: 50px">Profit Bank Ranking System</h1>
-    <div class="row ">
+    <div class="row d-flex justify-content-center align-items-center  ">
         <div class="col-lg col-xs-12 col-sm-12 col-md mr-2 mb-2 rank" style="height: 400px; width: 100px">
           <h4 class="text-center text-white w-50 mt-3" style="margin-left: 62px">Tire 4</h4>
             <h5 class="text-center text-white mt-3">PROFIT SILVER FISHES</h5>
