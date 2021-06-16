@@ -312,6 +312,66 @@ background-color:white;
     </div>
 </div>
 
+<div class="container" style="margin-top: 100px">
+    <h1 class="text-center mt-5 mb-5">Profit Company Clients</h1>
+    <div class="row">
+        <div class="col btn">
+            <img src="{{asset('image/1.jpg')}}" alt="" class="img-fluid">
+        </div>
+        <div class="col btn">
+            <img src="{{asset('image/2.jpg')}}" alt="" class="img-fluid">
+        </div>
+        <div class="col btn">
+            <img src="{{asset('image/4.jpg')}}" alt="" class="img-fluid">
+        </div>
+        <div class="col btn">
+            <img src="{{asset('image/3.png')}}" alt="" class="img-fluid">
+        </div>
+        <div class="col btn">
+            <img src="{{asset('image/5.png')}}" alt="" class="img-fluid">
+        </div>
+    </div>
+
+
+    <div class="row mt-5">
+        <div class="col btn">
+            <img src="{{asset('image/3.png')}}" alt="" class="img-fluid">
+        </div>
+        <div class="col btn">
+            <img src="{{asset('image/6.png')}}" alt="" class="img-fluid">
+        </div>
+        <div class="col btn">
+            <img src="{{asset('image/5.png')}}" alt="" class="img-fluid">
+        </div>
+        <div class="col btn">
+            <img src="{{asset('image/6.png')}}" alt="" class="img-fluid">
+        </div>
+        <div class="col btn">
+            <img src="{{asset('image/3.png')}}" alt="" class="img-fluid">
+        </div>
+    </div>
+
+
+    <div class="row mt-5">
+        <div class="col btn">
+            <img src="{{asset('image/1.jpg')}}" alt="" class="img-fluid">
+        </div>
+        <div class="col btn">
+            <img src="{{asset('image/2.jpg')}}" alt="" class="img-fluid">
+        </div>
+        <div class="col btn">
+            <img src="{{asset('image/4.jpg')}}" alt="" class="img-fluid">
+        </div>
+        <div class="col btn">
+            <img src="{{asset('image/1.jpg')}}" alt="" class="img-fluid">
+        </div>
+        <div class="col btn">
+            <img src="{{asset('image/2.jpg')}}" alt="" class="img-fluid">
+        </div>
+    </div>
+</div>
+
+
 <div class="blog" >
  <div class="container">
    <h1 class="text-center text-white" style="margin-bottom: 50px">Profit Bank BLOG</h1>
