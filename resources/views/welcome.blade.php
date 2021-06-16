@@ -83,6 +83,16 @@
                 height: auto;
                 background-color: #1b4b72;
             }
+              .rank{
+                background-color: #1b4b72;
+                border: 2px #1b4b72;
+                border-radius: 20px;
+            }
+            .blog{
+                background-color: #1b4b72;
+                margin-top: 100px;
+                height:800px;
+            }
 @media screen and (min-width: 320px) and (max-width: 767px){
 .nav1{
 background-color:white;
@@ -160,6 +170,48 @@ background-color:white;
         <div class="col-lg col-xs-6 col-sm-6 col-md-6 text-white text-center mt-3" style="font-size: 23px">20+ <br>Conferences attended</div>
     </div>
     </div>
+    <div class="container container-sm" style=";margin-top: 100px">
+    <h1 class="text-center" style="margin-bottom: 50px">Profit Bank Ranking System</h1>
+    <div class="row ">
+        <div class="col-lg col-xs-12 col-sm-12 col-md mr-2 mb-2 rank" style="height: 400px; width: 100px">
+          <h4 class="text-center text-white w-50 mt-3" style="margin-left: 62px">Tire 4</h4>
+            <h5 class="text-center text-white mt-3">PROFIT SILVER FISHES</h5>
+              <img src="{{asset('image/shark.jpg')}}" alt="" class="img-fluid w-50 h-25 mt-5" style="margin-left: 62px">
+               <h5 class="text-center text-white mt-5">10,000 PROFIT</h5>
+                <h6 class="text-center text-white mt-1">10% of allocations</h6>
+
+        </div>
+    
+            <div class="col-lg col-xs-12 col-sm-12 col-md mr-2 mb-2 rank" style="height: 400px; width: 100px">
+                <h4 class="text-center text-white w-50 mt-3" style="margin-left: 62px">Tire 2</h4>
+                <h5 class="text-center text-white mt-3">PROFIT SLEEK DOLPHINS</h5>
+                <img src="{{asset('image/shark2.jpg')}}" alt="" class="img-fluid w-50 h-25 mt-5" style="margin-left: 62px">
+                <h5 class="text-center text-white mt-5">30,000 PROFIT</h5>
+                <h6 class="text-center text-white mt-1">15% of allocations</h6>
+
+            </div>
+
+           <div class="col-lg col-xs-12 col-sm-12 col-md mr-2 mb-2 rank" style="height: 400px; width: 100px">
+                <h4 class="text-center text-white w-50 mt-3" style="margin-left: 62px">Tire 3</h4>
+                <h5 class="text-center text-white mt-3">PROFIT BABY SHARKS</h5>
+                <img src="{{asset('image/shark.jpg')}}" alt="" class="img-fluid w-50 h-25 mt-5" style="margin-left: 62px">
+                <h5 class="text-center text-white mt-5">100,000 PROFIT</h5>
+                <h6 class="text-center text-white mt-1">25% of allocations</h6>
+
+            </div>
+
+            <div class="col-lg col-xs-12 col-sm-12 col-md mr-2 mb-2 rank mb-5" style="height: 400px; width: 100px">
+                <h4 class="text-center text-white w-50 mt-3" style="margin-left: 62px">Tire 4</h4>
+                <h5 class="text-center text-white mt-3">PROFIT BLUE WHALE</h5>
+                <img src="{{asset('image/shark2.jpg')}}" alt="" class="img-fluid w-50 h-25 mt-5" style="margin-left: 62px">
+                <h5 class="text-center text-white mt-5">200,000 PROFIT</h5>
+                <h6 class="text-center text-white mt-1">50% of allocations</h6>
+
+            </div>
+    </div>
+</div>
+
+    
     <div class="div1">
     <div class="container container-sm container-xs">
 
@@ -259,7 +311,81 @@ background-color:white;
 
     </div>
 </div>
+
+<div class="blog" >
+ <div class="container">
+   <h1 class="text-center text-white" style="margin-bottom: 50px">Profit Bank BLOG</h1>
+    <div class="row">
+      <div class="col-lg col-sm-12 col-md col-xs-12">
+                   <div class="card">
+                    <img class="card-img-top" src="{{asset('image/4.jpg')}}" alt="Card image" style="width:100%; height: 300px">
+                    <div class="card-body">
+                        <h4 class="card-title">John Doe</h4>
+                        <p class="card-text">Some example text some example text. John Doe is an architect and engineer</p>
+                        <a href="#" class="btn float-right">Read More</a>
+                    </div>
+                </div>
+
+            </div>
+
+        <div class="col-lg col-sm-12 col-md col-xs-12">
+            <div class="card" >
+                <img class="card-img-top" src="{{asset('image/4.jpg')}}" alt="Card image" style="width:100%; height: 300px">
+                <div class="card-body">
+                    <h4 class="card-title">John Doe</h4>
+                    <p class="card-text">Some example text some example text. John Doe is an architect and engineer</p>
+                    <a href="#" class="btn float-right">Read More</a>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="col-lg col-sm-12 col-md col-xs-12 mb-5">
+            <div class="card">
+                <img class="card-img-top" src="{{asset('image/4.jpg')}}" alt="Card image" style="width:100%; height: 300px">
+                <div class="card-body">
+                    <h4 class="card-title">John Doe</h4>
+                    <p class="card-text">Some example text some example text. John Doe is an architect and engineer</p>
+                    <a href="#" class="btn float-right">Read More</a>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+    <center>
+    <a href="" class="btn py-2 px-5 border text-white " style="border-color: white;text-decoration: none;font-size: 20px">More Articles</a>
+    </center>
+</div>
+
   
+<div class="container container-sm" style="margin-top: 400px">
+<div class="row">
+
+    <div class="col-lg-6 col-sm-12 col-xs-12 col-md-6 mt-2">
+    <h1 class="mb-3" style="margin-top: 100px">Get in touch</h1>
+        <h6>Tell us about your projects, we are excited <br> to hear from you</h6>
+      </div>
+
+    <div class="col-lg-6 col-sm-12 col-xs-12 col-md-6 div3">
+        <form action="" class="container mb-5 mt-4">
+            <label class="font-weight-bold text-dark">Full Name:</label>
+            <input type="text" placeholder="Full Name..." class="form-control">
+
+            <label class="text-dark font-weight-bold">Email:</label>
+            <input type="email" placeholder="Email..." class="form-control">
+
+            <label class="font-weight-bold text-dark">Your Message:</label>
+            <textarea type="text" placeholder="Your Message" class="form-control" rows="5" style="resize: none"></textarea>
+
+            <a href="" class="btn  mt-3 py-2 px-4 btn-primary ">Send Massege</a>
+        </form>
+
+    </div>
+
+</div>
+</div>
 <footer class="footer" >
 <div class="container container-sm">
 <div class="row mt-5">
