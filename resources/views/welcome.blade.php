@@ -179,7 +179,7 @@
     <h1 class="text-dark text-center mt-5 py-3">Features</h1>
     <div class="container container-sm mt-5">
     <div class="row">
-        <div class="col-lg col-sm-6 col-md-6 col-xs-12 mr-2 mb-3  bord" style="height: 150px">
+        <div class="col-lg col-sm col-md col-xs mr-2 mb-3  bord" style="height: 150px">
             <div class="row">
                 <div class="col-lg-2 col-sm-2 col-xs-2  col-md-2 mt-4">
                     <i class="fas fa-volume-up fa-3x text-info mt-3"></i>
@@ -192,7 +192,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-lg col-sm-6 col-md-6 col-xs-12 bord" style="height: 150px">
+        <div class="col-lg col-sm col-md col-xs bord" style="height: 150px">
             <div class="row">
                 <div class="col-lg-2 col-sm-2 col-xs-2  col-md-2 mt-4">
                     <i class="fas fa-envelope fa-3x text-info mt-3"></i>
@@ -214,7 +214,7 @@
         
 <div class="container container-sm mt-5 py-3">
     <div class="row">
-        <div class="col-lg col-sm-6 col-md-6 col-xs-12 mr-2 mb-3 bord" style="height: 150px">
+        <div class="col-lg col-sm col-md-6 col-xs mr-2 mb-3 bord" style="height: 150px">
             <div class="row">
                 <div class="col-lg-2 col-sm-2 col-xs-2  col-md-2 mt-4">
                     <i class="fas fa-pen-square fa-3x text-info mt-3"></i>
@@ -228,7 +228,7 @@
             </div>
         </div>
     
-        <div class="col-lg col-sm-6 col-md-6 col-xs-12   bord" style="height: 150px">
+        <div class="col-lg col-sm col-md col-xs   bord" style="height: 150px">
             <div class="row">
                 <div class="col-lg-2 col-sm-2 col-xs-2  col-md-2 mt-4">
                     <i class="fas fa-signal fa-3x text-info mt-3"></i>
