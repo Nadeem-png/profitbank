@@ -187,7 +187,7 @@
                 <div class="col-lg-10 col-sm-10 col-xs-10 col-md-10">
                     <h4 class="mt-4">News</h4>
                     <p>
-                        Stay up-to-date with the latest crypto headlines.    We post <br> daily curated news in an easy-to-read format.
+                        Stay up-to-date with the latest crypto headlines. We post  daily curated news.
                     </p>
                 </div>
             </div>
@@ -200,7 +200,7 @@
                 <div class="col-lg-10 col-sm-10 col-xs-10 col-md-10">
                     <h4 class="mt-4">AMA</h4>
                     <p>
-                        Meet the founders of innovative crypto projects. Ask them anything about their work: from business strategy to tech development or marketing plans.
+                        Meet the founders of innovative crypto projects. Ask them anything about their work.
                     </p>
                 </div>
             </div>
@@ -222,7 +222,7 @@
                 <div class="col-lg-10 col-sm-10 col-xs-10 col-md-10">
                     <h4 class="mt-4">Articles and reviews</h4>
                     <p>
-                        We publish high quality articles about crypto and in-depth reviews of disruptive projects to help you understand the fundamentals at a deeper level.
+                        We publish high quality articles about crypto and in-depth reviews of disruptive projects.
                     </p>
                 </div>
             </div>
@@ -236,7 +236,7 @@
                 <div class="col-10">
                     <h4 class="mt-4">Investments</h4>
                     <p>
-                        Register in our platform to manage your investments and access all the details about the best deals sourced from our global network of highly connected people.
+                        Register in our platform to manage your investments and access all the details about the best deals.
                     </p>
                 </div>
             </div>
@@ -279,13 +279,7 @@
             <i class="fab fa-medium-m text-white" style="font-size: 25px"></i>
         </a>
 
-        <a href="" class="ml-4 mt-4">
-            <i class="fab fa-twitter text-white" style="font-size: 25px"></i>
-        </a>
-
-        <a href="" class="ml-4 mt-4">
-            <i class="fab fa-youtube text-white" style="font-size: 25px"></i>
-        </a>
+       
     </div>
 </div>
 </div>
