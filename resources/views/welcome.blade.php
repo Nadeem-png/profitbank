@@ -75,8 +75,9 @@
                 background-color: #1b4b72;
             }
 @media screen and (min-width: 320px) and (max-width: 767px){
-.navbar{
+.nav1{
 background-color:white;
+}
     
 }
         </style>
@@ -84,7 +85,7 @@ background-color:white;
         
 <header class="justify-content-center flex-column">
 
-<nav class="navbar navbar-expand-lg" style="height: 70px">
+<nav class="navbar nav1 navbar-expand-lg" style="height: 70px">
 <div class="w-25">
         <a href="/" class="navbar-brand">
             <img src="{{asset('image/project2.jpg.png')}}" class="img-fluid w-50 h-50" style="margin-left:185px">
