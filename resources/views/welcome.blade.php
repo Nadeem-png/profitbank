@@ -261,15 +261,15 @@ background-color:white;
         </p>
         </div>
 
-        <div class="col-lg col-sm-12 col-md-12 bg-white mr-2 bor" style="height: 450px; width:100%; margin-top: 100px">
-        <img src="{{asset('image/c1.jpg')}}" alt="" class="img-fluid w-25 h-25 mt-5" style="margin-left: 130px">
+        <div class="col-lg col-sm-12 col-md-12 bg-white mr-2 text-center bor" style="height: 450px; width:100%; margin-top: 100px">
+        <img src="{{asset('image/c1.jpg')}}" alt="" class="img-fluid text-center w-25 h-25 mt-5" >
         <h5 class="text-center text-dark mt-5">Events</h5>
         <p class="text-center text-dark">
             Being in crypto on your own can be overwhelming and risky. Exchange with experienced and well connected crypto enthusiasts about news, ideas, investment strategies and more.
          </p>
 </div>
-<div class="col-lg col-sm-12 col-md-12 bg-white bor mb-5" style="height: 450px; width:100%; margin-top: 100px">
-        <img src="{{asset('image/handship.jpg')}}" alt="" class="img-fluid w-25 h-25 mt-5" style="margin-left: 130px">
+<div class="col-lg col-sm-12 col-md-12 bg-white bor text-center mb-5" style="height: 450px; width:100%; margin-top: 100px">
+        <img src="{{asset('image/handship.jpg')}}" alt="" class="img-fluid text-center w-25 h-25 mt-5">
         <h5 class="text-center text-dark mt-5">Collabrition</h5>
         <p class="text-center text-dark">
             Don’t get lost in this continuous flow of complex information thanks to our synthetic daily reports. Our reviews and articles bring you to a deeper understanding of how crypto and blockchain work.
