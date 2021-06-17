@@ -464,7 +464,7 @@ background-color:white;
 </div>
 
   
-<div class="container container-sm" style="margin-top: 400px">
+<div class="container container-sm mt-5 py-3">
 <div class="row">
 
     <div class="col-lg-6 col-sm-12 col-xs-12 col-md-6 mt-2">
