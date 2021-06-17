@@ -88,6 +88,11 @@
                 height: auto;
                 background-color: #1b4b72;
             }
+             .rank{
+                background-color: #1b4b72;
+                border: 2px #1b4b72;
+                border-radius: 20px;
+            }
 
         </style>
         <body>
@@ -159,6 +164,72 @@
         <div class="col-lg col-xs-6 col-sm-6 col-md-6 text-white text-center mt-3" style="font-size: 23px">10,000+ <br>Active members</div>
         <div class="col-lg col-xs-6 col-sm-6 col-md-6 text-white text-center mt-3" style="font-size: 23px">20+ <br>Conferences attended</div>
     </div>
+    </div>
+     <div class="container container-sm mt-5">
+    <h1 class="text-center mb-5">Profit Bank Ranking System</h1>
+    <div class="row mx-auto">
+    <div class="col-6  col-lg-3 col-md-3 mb-4" >
+    <div class="card p-3 rank">
+    <div class="card-text text-white">
+    <h4 class=" text-center mt-3">Tire 1</h4>
+    <h5 class="text-center">PROFIT SILVER FISHES</h5>
+    </div>
+    <img src="{{asset('image/shark.jpg')}}" alt="" class="card-img rounded-circle">
+<div class="card-text text-white mt-2">
+<h5 class="text-center">10,000 PROFIT</h5>
+                <h6 class="text-center">10% of allocations</h6>
+</div>
+    </div>
+
+  
+    </div>
+    <div class="col-6  col-lg-3 col-md-3 mb-4" >
+    <div class="card p-3 rank">
+    <div class="card-text text-white">
+    <h4 class=" text-center mt-3">Tire 2</h4>
+    <h5 class="text-center">PROFIT SLEEK DOLPHINS</h5>
+    </div>
+    <img src="{{asset('image/shark.jpg')}}" alt="" class="card-img rounded-circle">
+<div class="card-text text-white mt-2">
+<h5 class="text-center">30,000 PROFIT</h5>
+                <h6 class="text-center">15% of allocations</h6>
+</div>
+    </div>
+
+  
+    </div>
+    <div class="col-6  col-lg-3 col-md-3" >
+    <div class="card p-3 rank">
+    <div class="card-text text-white">
+    <h4 class=" text-center mt-3">Tire 3</h4>
+    <h5 class="text-center">PROFIT BLUE<br> WHALE</h5>
+    </div>
+    <img src="{{asset('image/shark.jpg')}}" alt="" class="card-img rounded-circle">
+<div class="card-text text-white mt-2">
+<h5 class="text-center">200,000 PROFIT</h5>
+                <h6 class="text-center">50% of allocations</h6>
+</div>
+    </div>
+
+  
+    </div>
+    <div class="col-6  col-lg-3 col-md-3" >
+    <div class="card p-3 rank">
+    <div class="card-text text-white">
+    <h4 class=" text-center mt-3">Tire 4</h4>
+    <h5 class="text-center">PROFIT SLEEK DOLPHINS</h5>
+    </div>
+    <img src="{{asset('image/shark.jpg')}}" alt="" class="card-img rounded-circle">
+<div class="card-text text-white mt-2">
+<h5 class="text-center">100,000 PROFIT</h5>
+                <h6 class="text-center">25% of allocations</h6>
+</div>
+    </div>
+
+  
+    </div>
+    </div>
+    
     </div>
     <div class="div1">
     <div class="container container-sm container-xs">
