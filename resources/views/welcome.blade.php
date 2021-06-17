@@ -28,7 +28,7 @@
             .a1:hover{
                 color: lightcyan;
             }
-           .navbar-nav{
+             .navbar-nav{
             
             z-index:1000;
             background-color:#0b5262;
