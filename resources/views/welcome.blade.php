@@ -31,10 +31,12 @@
            .navbar-nav{
             
             z-index:1000;
+            background-color:#0b5262;
             }
            .navbar-collapse{
             
             z-index:1000;
+        
             }
             
             /* .row{
@@ -88,6 +90,10 @@
                 border: 2px #1b4b72;
                 border-radius: 20px;
             }
+            .div4{
+            height: auto;
+                background-color: #003345;
+            }
             .blog{
                 background-color: #1b4b72;
                 margin-top: 100px;
@@ -109,7 +115,7 @@ background-color:white;
         
 <header class="justify-content-center flex-column">
 
-<nav class="navbar nav1  bg-dark navbar-expand-lg" style="height: 70px">
+<nav class="navbar nav1  bg-dark navbar-expand-lg"style="height: 70px;background-color:#0b5262">
 <div class="w-25">
         <a href="/" class="navbar-brand">
             <img src="{{asset('image/project2.jpg.png')}}" class="img-fluid w-50 h-50" style="margin-left:185px">
@@ -498,6 +504,20 @@ background-color:white;
 </div>
 
 </footer>
-        
+        <div class="div4">
+                        <div class="container container-sm">
+                        <div class="row mx-auto">
+                        <div class="col-8 col-sm-12 col-md py-3">
+                        <a href="" class="text-white mr-2">About</a>
+                        <a href="" class="text-white mr-2">Term & Condition</a>
+                        <a href="" class="text-white mr-2">FAQ</a>
+                        <a href="" class="text-white">Contact</a>
+                        </div>
+                        <div class="col-4 col-sm-12 col-md py-3 ">
+                        <h6 class="text-white">&copy;2021 ProfitBank</h3>
+                        </div>
+                        </div>
+                        </div>
+                        </div>
         </body>
     </html>
