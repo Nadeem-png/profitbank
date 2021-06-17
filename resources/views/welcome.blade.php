@@ -184,7 +184,7 @@ background-color:white;
     <div class="container container-sm mt-5">
     <h1 class="text-center mb-5">Profit Bank Ranking System</h1>
     <div class="row mx-auto">
-    <div class="col-6  col-lg-3 col-md-3 mb-4" >
+    <div class="col-12  col-lg-3  mb-4" >
     <div class="card p-3 rank">
     <div class="card-text text-white">
     <h4 class=" text-center mt-3">Tire 1</h4>
@@ -199,7 +199,7 @@ background-color:white;
 
   
     </div>
-    <div class="col-6  col-lg-3 col-md-3 mb-4" >
+    <div class="col-12  col-lg-3  mb-4" >
     <div class="card p-3 rank">
     <div class="card-text text-white">
     <h4 class=" text-center mt-3">Tire 2</h4>
@@ -214,7 +214,7 @@ background-color:white;
 
   
     </div>
-    <div class="col-6  col-lg-3 col-md-3" >
+    <div class="col-12  col-lg-3 mb-4 " >
     <div class="card p-3 rank">
     <div class="card-text text-white">
     <h4 class=" text-center mt-3">Tire 3</h4>
@@ -229,7 +229,7 @@ background-color:white;
 
   
     </div>
-    <div class="col-6  col-lg-3 col-md-3" >
+    <div class="col-12  col-lg-3 mb-4" >
     <div class="card p-3 rank">
     <div class="card-text text-white">
     <h4 class=" text-center mt-3">Tire 4</h4>
