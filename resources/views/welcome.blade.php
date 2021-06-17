@@ -123,8 +123,8 @@ background-color:white;
     </div>
     <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#mynav"><i class="fas fa-bars text-white"></i></button>
     
-    <div class="navbar-collapse bg-dark  collapse" id="mynav">
-        <ul class="navbar-nav bg-dark ">
+    <div class="navbar-collapse   collapse" id="mynav">
+        <ul class="navbar-nav  ">
         <li class="nav-item" @yield('nava')>
                     <a href="/home" class="nav-link a1 font-weight-bold" style="margin-left: 100px">Home</a>
                 </li>
@@ -181,47 +181,72 @@ background-color:white;
         <div class="col-lg col-xs-6 col-sm-6 col-md-6 text-white text-center mt-3" style="font-size: 23px">20+ <br>Conferences attended</div>
     </div>
     </div>
-    <div class="container container-sm" style=";margin-top: 100px">
-    <h1 class="text-center" style="margin-bottom: 50px">Profit Bank Ranking System</h1>
-    <div class="row  ">
-        <div class="col-lg col-xs-12 col-sm-12 col-md mr-2 mb-2 rank" style="height: 400px; width: 100px">
-          <h4 class="text-center text-white w-50 mt-3" style="margin-left: 62px">Tire 4</h4>
-            <h5 class="text-center text-white mt-3">PROFIT SILVER FISHES</h5>
-              <img src="{{asset('image/shark.jpg')}}" alt="" class="img-fluid w-50 h-25 mt-5" style="margin-left: 62px">
-               <h5 class="text-center text-white mt-5">10,000 PROFIT</h5>
-                <h6 class="text-center text-white mt-1">10% of allocations</h6>
-
-        </div>
-    
-            <div class="col-lg col-xs-12 col-sm-12 col-md mr-2 mb-2 rank" style="height: 400px; width: 100px">
-                <h4 class="text-center text-white w-50 mt-3" style="margin-left: 62px">Tire 2</h4>
-                <h5 class="text-center text-white mt-3">PROFIT SLEEK DOLPHINS</h5>
-                <img src="{{asset('image/shark2.jpg')}}" alt="" class="img-fluid w-50 h-25 mt-5" style="margin-left: 62px">
-                <h5 class="text-center text-white mt-5">30,000 PROFIT</h5>
-                <h6 class="text-center text-white mt-1">15% of allocations</h6>
-
-            </div>
-
-           <div class="col-lg col-xs-12 col-sm-12 col-md mr-2 mb-2 rank" style="height: 400px; width: 100px">
-                <h4 class="text-center text-white w-50 mt-3" style="margin-left: 62px">Tire 3</h4>
-                <h5 class="text-center text-white mt-3">PROFIT BABY SHARKS</h5>
-                <img src="{{asset('image/shark.jpg')}}" alt="" class="img-fluid w-50 h-25 mt-5" style="margin-left: 62px">
-                <h5 class="text-center text-white mt-5">100,000 PROFIT</h5>
-                <h6 class="text-center text-white mt-1">25% of allocations</h6>
-
-            </div>
-
-            <div class="col-lg col-xs-12 col-sm-12 col-md mr-2 mb-2 rank mb-5" style="height: 400px; width: 100px">
-                <h4 class="text-center text-white w-50 mt-3" style="margin-left: 62px">Tire 4</h4>
-                <h5 class="text-center text-white mt-3">PROFIT BLUE WHALE</h5>
-                <img src="{{asset('image/shark2.jpg')}}" alt="" class="img-fluid w-50 h-25 mt-5" style="margin-left: 62px">
-                <h5 class="text-center text-white mt-5">200,000 PROFIT</h5>
-                <h6 class="text-center text-white mt-1">50% of allocations</h6>
-
-            </div>
+    <div class="container container-sm mt-5">
+    <h1 class="text-center mb-5">Profit Bank Ranking System</h1>
+    <div class="row mx-auto">
+    <div class="col-6  col-lg-3 col-md-3 mb-4" >
+    <div class="card p-3 rank">
+    <div class="card-text text-white">
+    <h4 class=" text-center mt-3">Tire 1</h4>
+    <h5 class="text-center">PROFIT SILVER FISHES</h5>
     </div>
+    <img src="{{asset('image/shark.jpg')}}" alt="" class="card-img rounded-circle">
+<div class="card-text text-white mt-2">
+<h5 class="text-center">10,000 PROFIT</h5>
+                <h6 class="text-center">10% of allocations</h6>
 </div>
+    </div>
 
+  
+    </div>
+    <div class="col-6  col-lg-3 col-md-3 mb-4" >
+    <div class="card p-3 rank">
+    <div class="card-text text-white">
+    <h4 class=" text-center mt-3">Tire 2</h4>
+    <h5 class="text-center">PROFIT SLEEK DOLPHINS</h5>
+    </div>
+    <img src="{{asset('image/shark.jpg')}}" alt="" class="card-img rounded-circle">
+<div class="card-text text-white mt-2">
+<h5 class="text-center">30,000 PROFIT</h5>
+                <h6 class="text-center">15% of allocations</h6>
+</div>
+    </div>
+
+  
+    </div>
+    <div class="col-6  col-lg-3 col-md-3" >
+    <div class="card p-3 rank">
+    <div class="card-text text-white">
+    <h4 class=" text-center mt-3">Tire 3</h4>
+    <h5 class="text-center">PROFIT BLUE<br> WHALE</h5>
+    </div>
+    <img src="{{asset('image/shark.jpg')}}" alt="" class="card-img rounded-circle">
+<div class="card-text text-white mt-2">
+<h5 class="text-center">200,000 PROFIT</h5>
+                <h6 class="text-center">50% of allocations</h6>
+</div>
+    </div>
+
+  
+    </div>
+    <div class="col-6  col-lg-3 col-md-3" >
+    <div class="card p-3 rank">
+    <div class="card-text text-white">
+    <h4 class=" text-center mt-3">Tire 4</h4>
+    <h5 class="text-center">PROFIT SLEEK DOLPHINS</h5>
+    </div>
+    <img src="{{asset('image/shark.jpg')}}" alt="" class="card-img rounded-circle">
+<div class="card-text text-white mt-2">
+<h5 class="text-center">100,000 PROFIT</h5>
+                <h6 class="text-center">25% of allocations</h6>
+</div>
+    </div>
+
+  
+    </div>
+    </div>
+    
+    </div>
     
     <div class="div1">
     <div class="container container-sm container-xs">
