@@ -253,8 +253,8 @@ background-color:white;
 
     <h1 class="text-center mt-5 text-white py-3" >Gains Offers you</h1>
         <div class="row">
-        <div class="col-lg col-sm-12 col-md-12 bg-white mr-2 bor" style="height: 450px; width:100%; margin-top: 100px;">
-    <img src="{{asset('image/images.png')}}" alt="" class="img-fluid w-25 h-25 mt-5" style="margin-left: 130px">
+        <div class="col-lg col-sm-12 col-md-12 bg-white mr-2 text-center bor" style="height: 450px; width:100%; margin-top: 100px;">
+    <img src="{{asset('image/images.png')}}" alt="" class="img-fluid text-center w-25 h-25 mt-5">
         <h5 class="text-center text-dark mt-5">Insightes</h5>
         <p class="text-center text-dark">
             Find new, fun and interactive ways to learn more about crypto projects and blockchain thanks to our regular Telegram events, with the opportunity to earn rewards.
