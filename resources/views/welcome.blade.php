@@ -443,7 +443,9 @@ background-color:white;
 
 <div class="blog" >
  <div class="container">
-   <h1 class="text-center text-white" style="margin-bottom: 50px">Profit Bank BLOG</h1>
+ <div data-aos="fade-up"
+     data-aos-anchor-placement="top-bottom">
+      <h1 class="text-center text-white" style="margin-bottom: 50px">Profit Bank BLOG</h1>
     <div class="row">
       <div class="col-lg col-sm-12 col-md col-xs-12">
                    <div class="card">
@@ -480,6 +482,8 @@ background-color:white;
             </div>
 
         </div>
+</div>
+  
 
     </div>
 
@@ -490,18 +494,14 @@ background-color:white;
 
   
 <div class="container container-sm mt-5 py-3">
-<div class="row">
-<div data-aos="fade-right"
-     data-aos-offset="300"
-     data-aos-easing="ease-in-sine">
+<div data-aos="fade-up"
+     data-aos-duration="3000">
+     <div class="row">
       <div class="col-lg-6 col-sm-12 col-xs-12 col-md-6 mt-2">
     <h1 class="mb-3" style="margin-top: 100px">Get in touch</h1>
         <h6>Tell us about your projects, we are excited <br> to hear from you</h6>
       </div>
-</div>
    
-<div data-aos="fade-up"
-     data-aos-duration="3000">
      <div class="col-lg-6 col-sm-12 col-xs-12 col-md-6 div3">
         <form action="" class="container mb-5 mt-4">
             <label class="font-weight-bold text-dark">Full Name:</label>
@@ -516,11 +516,13 @@ background-color:white;
             <a href="" class="btn  mt-3 py-2 px-4 btn-primary ">Send Massege</a>
         </form>
 
-    </div>
+
 </div>
     
 
 </div>
+</div>
+
 </div>
 <footer class="footer" >
 <div class="container container-sm">
