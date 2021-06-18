@@ -4,9 +4,11 @@
     <meta charset="utf-8">
     <title>@yield('title')</title>
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <script src="js/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.7.0/css/all.css' integrity='sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ' crossorigin='anonymous'>
     
     <style>
@@ -103,18 +105,26 @@
     </div>
 </nav>
 <div class="bg-contact">
-<h1 class="text-center p-4  w-100">Frequestly Asked Questions</h1>
+<div data-aos="fade-up"
+     data-aos-anchor-placement="center-center">
+     <h1 class="text-center p-4  w-100">Frequestly Asked Questions</h1>
+</div>
+
 </div>
 <div class="container container-sm">
 <div class="row">
 <div class="col-12 col-lg-3 py-lg-3">
-<div class="d-flex my-lg-3 d-lg-flex flex-lg-column flex-lg-align-start">
+<div data-aos="fade-up"
+     data-aos-anchor-placement="top-center">
+     <div class="d-flex my-lg-3 d-lg-flex flex-lg-column flex-lg-align-start">
 
 <button class="btn btn2 btn-link  text-lg-left py-lg-3 py-2">General</button>
 <button class="btn btn2 btn-link text-lg-left py-lg-3 py-2">Pool</button>
 <button class="btn btn2 btn-link text-lg-left py-lg-3 py-2">Events</button>
 <button class="btn btn2 btn-link text-lg-left py-lg-3 py-2">Community</button>
 </div>
+</div>
+
 
 </div>
 <div class="col-12 col-lg-8 ml-lg-5">
@@ -332,6 +342,9 @@
                         </div>
                         </div>
                         </div>
+                        <script>
+  AOS.init();
+</script>
         </body>
         </html>
         
