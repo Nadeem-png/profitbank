@@ -28,3 +28,6 @@ Route::get('/faq', function () {
 Route::get('/blog', function () {
     return view('blog');
 });
+Route::get('/event', function () {
+    return view('event');
+});
