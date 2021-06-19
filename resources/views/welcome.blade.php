@@ -134,7 +134,7 @@ background-color:white;
     <div class="navbar-collapse   collapse" id="mynav">
         <ul class="navbar-nav  ">
         <li class="nav-item" @yield('nava')>
-                    <a href="/home" class="nav-link a1 font-weight-bold" style="margin-left: 100px">Home</a>
+                    <a href="/" class="nav-link a1  ml-5 font-weight-bold">Home</a>
                 </li>
             <li class="nav-item" @yield('nava')>
                 <a href="/about" class="nav-link a1 ml-5 font-weight-bold">About</a>
