@@ -98,9 +98,9 @@
                 background-color: #003345;
             }
             .blog{
-                background-color: #1b4b72;
+               
                 margin-top: 100px;
-                height:800px;
+               
             }
              .div2{
                 background-color: #1b4b72;
@@ -171,7 +171,7 @@ background-color:white;
     <h5 class= "text-white font-weight-bold p-4">
         Discover new projects  |  Participate in Events  |  Investment Opportunities
      </h5>
-     <a href="" class="btn btn-primary   px-5 py-3 b1 font-weight-bold">Join our Telegram Group &nbsp; <i class="fab fa-telegram-plane text-white fa-2x"></i></a>
+     <a href="" class="btn btn-primary mb-3   px-5 py-3 b1 font-weight-bold">Join our Telegram Group &nbsp; <i class="fab fa-telegram-plane text-white fa-2x"></i></a>
         <a href="" class="btn btn-white bg-white px-5 py-3 ml-2  b2 font-weight-bold">Gains Deck</a>
  </div>
 </div>
@@ -268,13 +268,13 @@ background-color:white;
     </div>
     
     <div class="div1">
-    <div class="container container-sm container-xs">
+    <div class="container container-sm">
 
     <h1 class="text-center mt-5 text-white py-3" >Gains Offers you</h1>
         <div class="row">
         <div data-aos="fade-up"
      data-aos-duration="3000">
-       <div class="col-lg col-sm-12 col-md-12 bg-white mr-2 text-center bor" style="height: 450px; width:100%; margin-top: 100px;">
+       <div class="col-lg col-sm-12 col-md-12 bg-white mr-2 text-center mt-5 bor" style="height: 400px; width:100%;">
     <img src="{{asset('image/images.png')}}" alt="" class="img-fluid text-center w-25 h-25 mt-5">
         <h5 class="text-center text-dark mt-5">Insightes</h5>
         <p class="text-center text-dark">
@@ -285,7 +285,7 @@ background-color:white;
       
 <div data-aos="fade-up"
      data-aos-duration="3000">
-        <div class="col-lg col-sm-12 col-md-12 bg-white mr-2 text-center bor" style="height: 450px; width:100%; margin-top: 100px">
+        <div class="col-lg col-sm-12 col-md-12 bg-white mr-2 mt-5 text-center bor" style="height: 400px; width:100%;">
         <img src="{{asset('image/c1.jpg')}}" alt="" class="img-fluid text-center w-25 h-25 mt-5" >
         <h5 class="text-center text-dark mt-5">Events</h5>
         <p class="text-center text-dark">
@@ -295,7 +295,7 @@ background-color:white;
 </div>
      <div data-aos="fade-up"
      data-aos-duration="3000">
-     <div class="col-lg col-sm-12 col-md-12 bg-white bor text-center mb-5" style="height: 450px; width:100%; margin-top: 100px">
+     <div class="col-lg col-sm-12 col-md-12 bg-white bor mt-5 text-center mb-5" style="height: 400px; width:100%;">
         <img src="{{asset('image/handship.jpg')}}" alt="" class="img-fluid text-center w-25 h-25 mt-5">
         <h5 class="text-center text-dark mt-5">Collabrition</h5>
         <p class="text-center text-dark">
@@ -376,15 +376,18 @@ background-color:white;
 
     </div>
 </div>
-<div class="container div2" style="height: 300px;margin-top: 100px">
- <h1 class="text-white text-center ">Are you ready to really dive deep into <br> the Crypto universe?</h1>
-    <center><a href="" class="btn px-5 py-3 b3 font-weight-bold mt-4">Join our Telegram Group &nbsp;
-        <i class="fab fa-telegram-plane " style="font-size: 25px"></i>
-    </a>
-        <p class="text-white mt-4"><i class="fas fa-users text-white"></i> 10,000+ active people</p>
-    </center>
-</div>
+<div class="container container-sm div2">
+ <div class="card">
+    <div class="card-body text-center">
+      <h4 class="card-title text-center">About</h4>
+      <p class="card-text text-center">Credibility is key but our platform takes out the trust element of the process and our
+      clients get paid before the project does. We also have markers to safeguard investments using our unique system tools to analyse 
+      where the project is going. If the project looks like it could fail, then our system automatically pulls out our position to safeguard our capital. </p>
+    </div>
+  </div>
 
+</div>
+ 
 <div class="container" style="margin-top: 100px">
 <div data-aos="fade-up"
      data-aos-duration="3000">
