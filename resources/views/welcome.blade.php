@@ -157,7 +157,7 @@ background-color:white;
             </li>
 
             <li class="nav-item" @yield('nava')>
-                <a href="/faq" class="nav-link a1 ml-5 font-weight-bold border py-2 px-4" style="border-color: white">LOGIN</a>
+                <a href="/faq" class="nav-link btn btn-outline-dark a1 ml-5 font-weight-bold  py-2 px-4">LOGIN</a>
             </li>
 
 
