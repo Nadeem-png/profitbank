@@ -309,7 +309,9 @@ background-color:white;
     </div>
   
 
-<div class="container container-sm div2">
+<div class="container container-sm mt-5 div2">
+ <div data-aos="fade-up"
+     data-aos-duration="3000">
  <div class="card">
     <div class="card-body text-center text-white">
       <h4 class="card-title text-center text-white">About</h4>
@@ -318,7 +320,7 @@ background-color:white;
       where the project is going. If the project looks like it could fail, then our system automatically pulls out our position to safeguard our capital. </p>
     </div>
   </div>
-
+</div>
 </div>
  
 <div class="container" style="margin-top: 100px">
