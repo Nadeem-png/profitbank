@@ -190,10 +190,16 @@ background-color:white;
     </div>
     </div>
     <div class="container container-sm mt-5 text-center">
-    <h1 class="text-center">How Profit Bank works?</h1>
+    <div data-aos="fade-left"
+     data-aos-anchor="#example-anchor"
+     data-aos-offset="500"
+     data-aos-duration="500">
+     <h1 class="text-center">How Profit Bank works?</h1>
     <p class="text-center mt-4">Profit Bank is a decentralized protocol leveraging the blockchain technology
 			 to offer an open market for prospecting investors, bankable projects, 
 			and seasoned traders to exchange their offering in a trust less and noncustodial manner.</p>
+    
+</div>
     
     
     </div>
@@ -276,9 +282,10 @@ background-color:white;
      data-aos-duration="3000">
        <div class="col-lg col-sm-12 col-md-12 bg-white mr-2 text-center mt-5 bor" style="height: 400px; width:100%;">
     <img src="{{asset('image/images.png')}}" alt="" class="img-fluid text-center w-25 h-25 mt-5">
-        <h5 class="text-center text-dark mt-5">Insightes</h5>
+        <h5 class="text-center text-dark mt-5">Staking</h5>
         <p class="text-center text-dark">
-            Find new, fun and interactive ways to learn more about crypto projects and blockchain thanks to our regular Telegram events, with the opportunity to earn rewards.
+Earn returns the smartest way by staking and farming. Which will be invested in the best
+			 DeFi platforms and earn bonus– boosting profits further.
         </p>
         </div>
 </div>
@@ -287,19 +294,20 @@ background-color:white;
      data-aos-duration="3000">
         <div class="col-lg col-sm-12 col-md-12 bg-white mr-2 mt-5 text-center bor" style="height: 400px; width:100%;">
         <img src="{{asset('image/c1.jpg')}}" alt="" class="img-fluid text-center w-25 h-25 mt-5" >
-        <h5 class="text-center text-dark mt-5">Events</h5>
+        <h5 class="text-center text-dark mt-5">Pooling</h5>
         <p class="text-center text-dark">
-            Being in crypto on your own can be overwhelming and risky. Exchange with experienced and well connected crypto enthusiasts about news, ideas, investment strategies and more.
-         </p>
+Pooling PFB for pre-qualified projects for a fixed period. Returns are stated by each pool and
+			 they all have a minimum ROI, that is paid back in PFB.          </p>
 </div>
 </div>
      <div data-aos="fade-up"
      data-aos-duration="3000">
      <div class="col-lg col-sm-12 col-md-12 bg-white bor mt-5 text-center mb-5" style="height: 400px; width:100%;">
         <img src="{{asset('image/handship.jpg')}}" alt="" class="img-fluid text-center w-25 h-25 mt-5">
-        <h5 class="text-center text-dark mt-5">Collabrition</h5>
+        <h5 class="text-center text-dark mt-5">Rewards</h5>
         <p class="text-center text-dark">
-            Don’t get lost in this continuous flow of complex information thanks to our synthetic daily reports. Our reviews and articles bring you to a deeper understanding of how crypto and blockchain work.
+Get rewarded for holding PFB, the native PROFIT BANK token. We have expertly designed our 
+			contract to bring rewards to all our token holders.
         </p>
 </div>
 </div>
@@ -397,9 +405,9 @@ background-color:white;
       <div class="col-lg col-sm-12 col-md col-xs-12 mb-3">
                    <div class="card">
                     <img class="card-img-top" src="{{asset('image/4.jpg')}}" alt="Card image" style="width:100%; height: 300px">
-                    <div class="card-body">
-                        <h4 class="card-title">John Doe</h4>
-                        <p class="card-text">Some example text some example text. John Doe is an architect and engineer</p>
+                    <div class="card-body  text-white">
+                        <h4 class="card-title text-white">John Doe</h4>
+                        <p class="card-text text-white">Some example text some example text. John Doe is an architect and engineer</p>
                         <a href="#" class="btn float-right">Read More</a>
                     </div>
                 </div>
@@ -410,8 +418,8 @@ background-color:white;
             <div class="card" >
                 <img class="card-img-top" src="{{asset('image/4.jpg')}}" alt="Card image" style="width:100%; height: 300px">
                 <div class="card-body">
-                    <h4 class="card-title">John Doe</h4>
-                    <p class="card-text">Some example text some example text. John Doe is an architect and engineer</p>
+                    <h4 class="card-title text-white">John Doe</h4>
+                    <p class="card-tex text-whitet">Some example text some example text. John Doe is an architect and engineer</p>
                     <a href="#" class="btn float-right">Read More</a>
                 </div>
             </div>
@@ -422,8 +430,8 @@ background-color:white;
             <div class="card">
                 <img class="card-img-top" src="{{asset('image/4.jpg')}}" alt="Card image" style="width:100%; height: 300px">
                 <div class="card-body">
-                    <h4 class="card-title">John Doe</h4>
-                    <p class="card-text">Some example text some example text. John Doe is an architect and engineer</p>
+                    <h4 class="card-title text-white">John Doe</h4>
+                    <p class="card-text text-white">Some example text some example text. John Doe is an architect and engineer</p>
                     <a href="#" class="btn float-right">Read More</a>
                 </div>
             </div>
