@@ -195,10 +195,8 @@ background-color:white;
     </div>
     </div>
     <div class="container container-sm mt-5 text-center">
-    <div data-aos="fade-left"
-     data-aos-anchor="#example-anchor"
-     data-aos-offset="500"
-     data-aos-duration="500">
+   <div data-aos="fade-up"
+     data-aos-duration="3000">
      <h1 class="text-center">How Profit Bank works?</h1>
     <p class="text-center mt-4">Profit Bank is a decentralized protocol leveraging the blockchain technology
 			 to offer an open market for prospecting investors, bankable projects, 
