@@ -1,7 +1,8 @@
 <!doctype html>
 <html>
 <head>
-    <meta charset="utf-8">
+      <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>@yield('title')</title>
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
     <script src="js/jquery.min.js"></script>
