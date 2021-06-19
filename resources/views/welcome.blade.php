@@ -1,7 +1,8 @@
 <!doctype html>
 <html>
 <head>
-    <meta charset="utf-8">
+   <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>@yield('title')</title>
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
@@ -161,11 +162,11 @@ background-color:white;
 <div data-aos="fade-right"
      data-aos-offset="300"
      data-aos-easing="ease-in-sine">
-     <div class="container " style="margin-top:80px">
+     <div class="container container-sm " style="margin-top:80px">
 <div class="row d-flex justify-content-between align-items-center d-column text-white">
-<div class="col">
+<div class="col-12 col-lg-7">
 <h1 class= "text-white font-weight-bold p-4">
- The World’s First <br> Decentralized VC
+ Decentralized Fund Management Protocol
     </h1>
     <h5 class= "text-white font-weight-bold p-4">
         Discover new projects  |  Participate in Events  |  Investment Opportunities
@@ -187,6 +188,14 @@ background-color:white;
         <div class="col-lg col-xs-6 col-sm-6 col-md-6 text-white text-center mt-3" style="font-size: 23px">10,000+ <br>Active members</div>
         <div class="col-lg col-xs-6 col-sm-6 col-md-6 text-white text-center mt-3" style="font-size: 23px">20+ <br>Conferences attended</div>
     </div>
+    </div>
+    <div class="container container-sm mt-5 text-center">
+    <h1 class="text-center">How Profit Bank works?</h1>
+    <p class="text-center mt-4">Profit Bank is a decentralized protocol leveraging the blockchain technology
+			 to offer an open market for prospecting investors, bankable projects, 
+			and seasoned traders to exchange their offering in a trust less and noncustodial manner.</p>
+    
+    
     </div>
     <div class="container container-sm mt-5">
     <h1 class="text-center mb-5">Profit Bank Ranking System</h1>
