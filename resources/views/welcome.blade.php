@@ -165,7 +165,7 @@ background-color:white;
     </div>
 </nav>
 <div data-aos="fade-right"
-     data-aos-offset="300"
+     data-aos-offset="600"
      data-aos-easing="ease-in-sine">
      <div class="container container-sm " style="margin-top:80px">
 <div class="row d-flex justify-content-between align-items-center d-column text-white">
@@ -531,7 +531,7 @@ Get rewarded for holding PFB, the native PROFIT BANK token. We have expertly des
     <div class="col-lg col-xs-12 col-sm-12 col-md-6">
         <img src="{{asset('image/project2.jpg.png')}}" alt="" class="mt-2" style="height: 150px">
     </div>
-    <div class="col-lg col-xs-12 col-sm-12 col-md-6">
+    <div class="col-lg col-xs-12 col-sm-12 col-md-6 mb-2">
         <h4 class=" text-white mt-5 ml-5 mb-4">Connect with us:</h4>
 
         <a href="" class="ml-5 mt-4">
