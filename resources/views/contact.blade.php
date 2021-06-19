@@ -5,9 +5,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>@yield('title')</title>
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <script src="js/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.7.0/css/all.css' integrity='sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ' crossorigin='anonymous'>
     
     <style>
@@ -61,7 +63,7 @@
     <div class="navbar-collapse  collapse" id="mynav">
         <ul class="navbar-nav  ">
         <li class="nav-item" @yield('nava')>
-                    <a href="/home" class="nav-link a1 font-weight-bold" style="margin-left: 100px">Home</a>
+                    <a href="/" class="nav-link a1 ml-5 font-weight-bold">Home</a>
                 </li>
             <li class="nav-item" @yield('nava')>
                 <a href="/about" class="nav-link a1 ml-5 font-weight-bold">About</a>
@@ -98,8 +100,9 @@
 
 <div class="container container-sm">
 <div class="row">
-
-    <div class="col-lg-6 col-sm-12 col-xs-12 col-md-6 mt-2 ">
+<div data-aos="fade-up"
+     data-aos-duration="3000">
+      <div class="col-lg-6 col-sm-12 col-xs-12 col-md-6 mt-2 ">
     <h1 class="mb-3" style="margin-top: 100px">Get in touch</h1>
         <h6>Tell us about your projects, we are excited <br> to hear from you</h6>
       </div>
@@ -121,6 +124,8 @@
     </div>
 
 </div>
+   
+</div>
 </div>
 <hr>
 <p class="py-4 text-center">
@@ -136,28 +141,28 @@ You can also reach us at
     <div class="col-lg col-xs-12 col-sm-12 col-md-6">
         <h4 class=" text-white mt-5 ml-5 mb-4">Connect with us:</h4>
 
-        <a href="" class="ml-5 mt-4">
+        <a href="" class="ml-5  mb-2 mt-4">
             <i class="fab fa-telegram-plane text-white" style="font-size: 25px"></i>
         </a>
 
-        <a href="" class="ml-4 mt-4">
+        <a href="" class="ml-4  mb-2 mt-4">
             <i class="fab fa-discord text-white" style="font-size: 25px"></i>
         </a>
 
-        <a href="" class="ml-4 mt-4">
+        <a href="" class="ml-4  mb-2 mt-4">
             <i class="fab fa-facebook-f text-white" style="font-size: 25px"></i>
         </a>
 
-        <a href="" class="ml-4 mt-4">
+        <a href="" class="ml-4  mb-2 mt-4">
             <i class="fab fa-instagram text-white" style="font-size: 25px"></i>
         </a>
 
-        <a href="" class="ml-4 mt-4">
+        <a href="" class="ml-4  mb-2 mt-4">
             <i class="fab fa-linkedin-in text-white" style="font-size: 25px"></i>
         </a>
 
-        <a href="" class="ml-4 mt-4">
-            <i class="fab fa-medium-m text-white" style="font-size: 25px"></i>
+        <a href="" class="ml-4 mt-4 mb-2">
+            <i class="fab fa-medium-m \ text-white" style="font-size: 25px"></i>
         </a>
 
        
@@ -180,6 +185,9 @@ You can also reach us at
                         </div>
                         </div>
                         </div>
+                        <script>
+  AOS.init();
+</script>
         </body>
         </html>
         
