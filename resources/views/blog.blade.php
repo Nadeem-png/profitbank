@@ -84,6 +84,8 @@
             <hr>
             <div class="container container-sm mt-5">
             <div class="row mx-auto">
+              <div data-aos="fade-up"
+     data-aos-duration="3000">
             <div class="col-12 col-lg-7">
             <img src="{{asset('image/a3.jpg')}}" alt="" class="img-fluid mb-5">
             </div>
@@ -106,8 +108,11 @@
             </div>
             </div>
             </div>
+            </div>
             <div class="container container-sm">
             <div class="row mx-auto">
+              <div data-aos="fade-up"
+     data-aos-duration="3000">
             <div class="col-12 col-lg-4">
             <img src="{{asset('image/a3.jpg')}}" alt="" class="img-fluid mb-2">
             <h4>ZKChas-Telegram </h1>
@@ -120,6 +125,7 @@
             <h5 class="text-danger">GAIN Associates</h4>
             <p>Jun 30 . 10 min read</p>
             
+            </div>
             </div>
             </div>
             </div>
