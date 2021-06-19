@@ -408,7 +408,7 @@ Get rewarded for holding PFB, the native PROFIT BANK token. We have expertly des
                     <div class="card-body  text-white">
                         <h4 class="card-title text-white">John Doe</h4>
                         <p class="card-text text-white">Some example text some example text. John Doe is an architect and engineer</p>
-                        <a href="#" class="btn float-right">Read More</a>
+                        <a href="#" class="btn text-danger float-right">Read More</a>
                     </div>
                 </div>
 
@@ -419,8 +419,8 @@ Get rewarded for holding PFB, the native PROFIT BANK token. We have expertly des
                 <img class="card-img-top" src="{{asset('image/4.jpg')}}" alt="Card image" style="width:100%; height: 300px">
                 <div class="card-body">
                     <h4 class="card-title text-white">John Doe</h4>
-                    <p class="card-tex text-whitet">Some example text some example text. John Doe is an architect and engineer</p>
-                    <a href="#" class="btn float-right">Read More</a>
+                    <p class="card-tex text-white">Some example text some example text. John Doe is an architect and engineer</p>
+                    <a href="#" class="btn  text-dangerfloat-right">Read More</a>
                 </div>
             </div>
 
@@ -432,7 +432,7 @@ Get rewarded for holding PFB, the native PROFIT BANK token. We have expertly des
                 <div class="card-body">
                     <h4 class="card-title text-white">John Doe</h4>
                     <p class="card-text text-white">Some example text some example text. John Doe is an architect and engineer</p>
-                    <a href="#" class="btn float-right">Read More</a>
+                    <a href="#" class="btn  text-danger float-right">Read More</a>
                 </div>
             </div>
 
