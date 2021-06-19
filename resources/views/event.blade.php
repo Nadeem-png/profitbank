@@ -73,7 +73,7 @@
     <div class="navbar-collapse  collapse" id="mynav">
         <ul class="navbar-nav  ">
         <li class="nav-item" @yield('nava')>
-                    <a href="/home" class="nav-link a1 font-weight-bold" style="margin-left: 100px">Home</a>
+                    <a href="/" class="nav-link a1 ml-5 font-weight-bold">Home</a>
                 </li>
             <li class="nav-item" @yield('nava')>
                 <a href="/about" class="nav-link a1 ml-5 font-weight-bold">About</a>
@@ -96,7 +96,7 @@
             </li>
 
             <li class="nav-item" @yield('nava')>
-                <a href="/faq" class="nav-link a1 ml-5 font-weight-bold border py-2 px-4" style="border-color: white">LOGIN</a>
+                <a href="/faq" class="nav-link a1 ml-5 font-weight-bold btn-btn-outline-dark rounded-pill py-2 px-4">LOGIN</a>
             </li>
 
 
@@ -123,7 +123,7 @@
     <div class="col-3 text-center">
     <p>Fri</p>
     <h6>18</h6>
-    <span class="bg-success px-2 rounded-pill">Today</span>
+    <span class="bg-warning rounded-pill">Today</span>
     </div>
     <div class="col-7">
     <div class="card-text">
@@ -141,7 +141,7 @@
     <div class="col-3 text-center">
     <p>Fri</p>
     <h6>18</h6>
-    <span class="bg-success px-2 rounded-pill">Today</span>
+    <span class="bg-warning rounded-pill">Today</span>
     </div>
     <div class="col-7">
     <div class="card-text">
@@ -161,7 +161,7 @@
     <div class="col-3 text-center">
     <p>Fri</p>
     <h6>18</h6>
-    <span class="bg-success px-2 rounded-pill">Today</span>
+    <span class="bg-warning  rounded-pill">Today</span>
     </div>
     <div class="col-7">
     <div class="card-text">
@@ -179,7 +179,7 @@
     <div class="col-3 text-center">
     <p>Fri</p>
     <h6>18</h6>
-    <span class="bg-success px-2 rounded-pill">Today</span>
+    <span class="bg-warning  rounded-pill">Today</span>
     </div>
     <div class="col-7">
     <div class="card-text">
@@ -197,7 +197,7 @@
     <div class="col-3 text-center">
     <p>Fri</p>
     <h6>18</h6>
-    <span class="bg-success px-2 rounded-pill">Today</span>
+    <span class="bg-warning  rounded-pill">Today</span>
     </div>
     <div class="col-7">
     <div class="card-text">
@@ -221,7 +221,7 @@
     <div class="col-lg col-xs-12 col-sm-12 col-md-6">
         <img src="{{asset('image/project2.jpg.png')}}" alt="" class="mt-2" style="height: 150px">
     </div>
-    <div class="col-lg col-xs-12 col-sm-12 col-md-6">
+    <div class="col-lg col-xs-12 col-sm-12 col-md-6 mb-2">
         <h4 class=" text-white mt-5 ml-5 mb-4">Connect with us:</h4>
 
         <a href="" class="ml-5 mt-4">
