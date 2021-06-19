@@ -210,12 +210,31 @@ background-color:white;
      data-aos-duration="3000">
      <div class="row mx-auto">
      
-     <div class="col-12  col-lg-3  mb-4" >
+     <div class="col-12  col-lg-4  mb-4" >
     <div class="card p-3 work ">
     <div class="card-text text-white">
     <h2 class=" text-center mt-3"> Smart Contracts</h2>
     <p class="text-center">The assets are stored in a non-custodial way and the trades are executed using
 		         decentralized platform with deep liquidity.</p>
+    </div>
+    </div>
+    </div>
+      <div class="col-12  col-lg-4  mb-4" >
+    <div class="card p-3 work ">
+    <div class="card-text text-white">
+    <h2 class=" text-center mt-3"> Traders</h2>
+    <p class="text-center">Any fund manager/trader can deploy contract to start their fund using the protocol.
+			 And that contract will act as a pot where investors can invest without having to
+			 give away the custody of their assets..</p>
+    </div>
+    </div>
+    </div>
+       <div class="col-12  col-lg-4  mb-4" >
+    <div class="card p-3 work ">
+    <div class="card-text text-white">
+    <h2 class=" text-center mt-3">Funds</h2>
+    <p class="text-center">Profit Bank state of the art funds and strategies which analyse the markets and 
+			generate highly profitable returns.</p>
     </div>
     </div>
     </div>
