@@ -188,10 +188,10 @@ background-color:white;
 </header>
 <div class="container-fluid">
     <div class="row div" >
-        <div class="col-lg col-xs-6 lg col-sm-6  col-md-6 text-white text-center mt-3" style="font-size: 23px">30+ <br>Projects worked with</div>
-        <div class="col-lg col-xs-6 col-sm-6 col-md-6 text-white text-center mt-3" style="font-size: 23px">$3M+ <br>Raised for projects</div>
-        <div class="col-lg col-xs-6 col-sm-6 col-md-6 text-white text-center mt-3" style="font-size: 23px">10,000+ <br>Active members</div>
-        <div class="col-lg col-xs-6 col-sm-6 col-md-6 text-white text-center mt-3" style="font-size: 23px">20+ <br>Conferences attended</div>
+        <div class="col-lg col-xs-6 lg col-sm-6 mb-2  col-md-6 text-white text-center mt-3" style="font-size: 23px">30+ <br>Projects worked with</div>
+        <div class="col-lg col-xs-6 col-sm-6  col-md-6  mb-2 text-white text-center mt-3" style="font-size: 23px">$3M+ <br>Raised for projects</div>
+        <div class="col-lg col-xs-6 col-sm-6 col-md-6 mb-2 text-white text-center mt-3" style="font-size: 23px">10,000+ <br>Active members</div>
+        <div class="col-lg col-xs-6 col-sm-6 col-md-6 mb-2 text-white text-center mt-3" style="font-size: 23px">20+ <br>Conferences attended</div>
     </div>
     </div>
     <div class="container container-sm mt-5 text-center">
