@@ -102,9 +102,9 @@
                 margin-top: 100px;
                
             }
-             .div2{
+             .card{
                 background-color: #1b4b72;
-                border: 2px white;
+                border:;
                 border-radius: 20px
             }
 @media screen and (min-width: 320px) and (max-width: 767px){
@@ -342,40 +342,7 @@ background-color:white;
 </div>
         </div>
         </div>
-        
-<div class="container container-sm mt-5 py-3">
-    <div class="row">
-        <div class="col-lg col-sm col-md-6 col-xs mr-2 mb-3 bord" style="height: 150px">
-            <div class="row">
-                <div class="col-lg-2 col-sm-2 col-xs-2  col-md-2 mt-4">
-                    <i class="fas fa-pen-square fa-3x text-info mt-3"></i>
-                </div>
-                <div class="col-lg-10 col-sm-10 col-xs-10 col-md-10">
-                    <h4 class="mt-4">Articles and reviews</h4>
-                    <p>
-                        We publish high quality articles about crypto and in-depth reviews of disruptive projects.
-                    </p>
-                </div>
-            </div>
-        </div>
-    
-        <div class="col-lg col-sm col-md col-xs   bord" style="height: 150px">
-            <div class="row">
-                <div class="col-lg-2 col-sm-2 col-xs-2  col-md-2 mt-4">
-                    <i class="fas fa-signal fa-3x text-info mt-3"></i>
-                </div>
-                <div class="col-10">
-                    <h4 class="mt-4">Investments</h4>
-                    <p>
-                        Register in our platform to manage your investments and access all the details about the best deals.
-                    </p>
-                </div>
-            </div>
-        </div>
 
-
-    </div>
-</div>
 <div class="container container-sm div2">
  <div class="card">
     <div class="card-body text-center">
@@ -459,7 +426,7 @@ background-color:white;
      data-aos-anchor-placement="top-bottom">
       <h1 class="text-center text-white" style="margin-bottom: 50px">Profit Bank BLOG</h1>
     <div class="row">
-      <div class="col-lg col-sm-12 col-md col-xs-12">
+      <div class="col-lg col-sm-12 col-md col-xs-12 mb-3">
                    <div class="card">
                     <img class="card-img-top" src="{{asset('image/4.jpg')}}" alt="Card image" style="width:100%; height: 300px">
                     <div class="card-body">
@@ -471,7 +438,7 @@ background-color:white;
 
             </div>
 
-        <div class="col-lg col-sm-12 col-md col-xs-12">
+        <div class="col-lg col-sm-12 col-md col-xs-12  mb-3">
             <div class="card" >
                 <img class="card-img-top" src="{{asset('image/4.jpg')}}" alt="Card image" style="width:100%; height: 300px">
                 <div class="card-body">
@@ -483,7 +450,7 @@ background-color:white;
 
         </div>
 
-        <div class="col-lg col-sm-12 col-md col-xs-12 mb-5">
+        <div class="col-lg col-sm-12 col-md col-xs-12 mb-5  mb-3">
             <div class="card">
                 <img class="card-img-top" src="{{asset('image/4.jpg')}}" alt="Card image" style="width:100%; height: 300px">
                 <div class="card-body">
@@ -500,7 +467,7 @@ background-color:white;
     </div>
 
     <center>
-    <a href="" class="btn py-2 px-5 border text-white " style="border-color: white;text-decoration: none;font-size: 20px">More Articles</a>
+    <a href="" class="btn btn-outline-danger py-2 px-5 roundd-pill " style="text-decoration: none;font-size: 20px">More Articles</a>
     </center>
 </div>
 
