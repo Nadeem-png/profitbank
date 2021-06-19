@@ -93,6 +93,11 @@
                 border: 2px #1b4b72;
                 border-radius: 20px;
             }
+             .work{
+               
+                border: 2px solid #1b4b72;
+                border-radius: 20px;
+            }
             .div4{
             height: auto;
                 background-color: #003345;
@@ -200,6 +205,28 @@ background-color:white;
 			and seasoned traders to exchange their offering in a trust less and noncustodial manner.</p>
     
 </div>
+ <div class="container container-sm mt-5">
+    <div data-aos="fade-up"
+     data-aos-duration="3000">
+     <div class="row mx-auto">
+     
+     <div class="col-12  col-lg-3  mb-4" >
+    <div class="card p-3 work ">
+    <div class="card-text text-white">
+    <h2 class=" text-center mt-3"> Smart Contracts</h2>
+    <p class="text-center">The assets are stored in a non-custodial way and the trades are executed using
+		         decentralized platform with deep liquidity.</p>
+    </div>
+    </div>
+    </div>
+     
+     
+     
+     
+     
+     </div>
+     </div>
+</div>
     
     
     </div>
@@ -276,7 +303,7 @@ background-color:white;
     <div class="div1">
     <div class="container container-sm">
 
-    <h1 class="text-center mt-5 text-white py-3" >Gains Offers you</h1>
+    <h1 class="text-center mt-5 text-white py-3" >ProfitBank Offers you</h1>
         <div class="row">
         <div data-aos="fade-up"
      data-aos-duration="3000">
