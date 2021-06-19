@@ -307,47 +307,13 @@ background-color:white;
 </div>
     </div>
     </div>
-    <h1 class="text-dark text-center mt-5 py-3">Features</h1>
-    <div class="container container-sm mt-5">
-    <div class="row">
-        <div class="col-lg col-sm col-md col-xs mr-2 mb-3  bord" style="height: 150px">
-            <div class="row">
-                <div class="col-lg-2 col-sm-2 col-xs-2  col-md-2 mt-4">
-                    <i class="fas fa-volume-up fa-3x text-info mt-3"></i>
-                </div>
-                <div class="col-lg-10 col-sm-10 col-xs-10 col-md-10">
-                    <h4 class="mt-4">News</h4>
-                    <p>
-                        Stay up-to-date with the latest crypto headlines. We post  daily curated news.
-                    </p>
-                </div>
-            </div>
-        </div>
-        <div class="col-lg col-sm col-md col-xs bord" style="height: 150px">
-            <div class="row">
-                <div class="col-lg-2 col-sm-2 col-xs-2  col-md-2 mt-4">
-                    <i class="fas fa-envelope fa-3x text-info mt-3"></i>
-                </div>
-                <div class="col-lg-10 col-sm-10 col-xs-10 col-md-10">
-                    <h4 class="mt-4">AMA</h4>
-                    <p>
-                        Meet the founders of innovative crypto projects. Ask them anything about their work.
-                    </p>
-                </div>
-            </div>
-        </div>
-
-
-    </div>
-</div>
-        </div>
-        </div>
+  
 
 <div class="container container-sm div2">
  <div class="card">
-    <div class="card-body text-center">
-      <h4 class="card-title text-center">About</h4>
-      <p class="card-text text-center">Credibility is key but our platform takes out the trust element of the process and our
+    <div class="card-body text-center text-white">
+      <h4 class="card-title text-center text-white">About</h4>
+      <p class="card-text text-center text-white">Credibility is key but our platform takes out the trust element of the process and our
       clients get paid before the project does. We also have markers to safeguard investments using our unique system tools to analyse 
       where the project is going. If the project looks like it could fail, then our system automatically pulls out our position to safeguard our capital. </p>
     </div>
