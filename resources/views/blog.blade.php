@@ -5,9 +5,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>@yield('title')</title>
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <script src="js/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.7.0/css/all.css' integrity='sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ' crossorigin='anonymous'>
     
     <style>
@@ -38,13 +40,18 @@
             <div class="container container-sm">
 <div class="row d-flex justify-content-between align-items-center flex-column text-white">
 <div class="col mt-5">
-<img src="{{asset('image/project2.jpg.png')}}" alt="" class="mt-2 img-fluid" style="height: 100px">
+<div data-aos="fade-right"
+     data-aos-offset="300"
+     data-aos-easing="ease-in-sine">
+     <img src="{{asset('image/project2.jpg.png')}}" alt="" class="mt-2 img-fluid" style="height: 100px">
 <h1 class= "text-white font-weight-bold">
  Profit Bank Associate
     </h1>
     <h5 class= "text-white font-weight-bold py-2">
     Quality |  Trust  | Proximity
      </h5>
+</div>
+
    
  </div>
 </div>
@@ -233,5 +240,8 @@
                         </div>
                         </div>
                         </div>
+                        <script>
+  AOS.init();
+</script>
         </body>
         </html>
