@@ -192,11 +192,11 @@ This is why we created GAINS and this is what we are fighting for everyday.</p>
                     <i class="fas fa-hands-helping text-white fa-2x"></i>
                    
                     </div>
-                     <div class="col-12 col-lg-9 text-white">
+                     <div class="col-12 col-lg-9 text-white mb-5">
                       <h2>Collaboration</h2>
                     <p>Connecting with people is at the heart of human nature and is necessary for
                     one’s well being. We share knowledge, discuss ideas and challenge opinions to grow together..</p>
-                   <p>Nothing of significance was ever achieved by an individual acting alone.</p>
+                   <p class="mb-5">Nothing of significance was ever achieved by an individual acting alone.</p>
                      </div>
                     </div>
 
