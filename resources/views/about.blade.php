@@ -133,13 +133,13 @@ Nowadays, we are humbled to have a vibrant community of supporters, and that is 
 </div>
 </div>
 </div>
-                    <div class="container container-sm mt-5">
-<div class="row  flex-sm-rw-reverse ">
-<div class="col-12 col-lg-7">
+                   <div class="container container-sm mt-5">
+<div class="row   ">
+
 <div class="col-12 col-lg-5">
 <img src="{{asset('image/story.jpg')}}" class="img-fluid mb-2">
-
 </div>
+<div class="col-12 col-lg-7">
 <h1>Our Vision</h1>
 <p> In the history of how we exchange value, we have only had 3 major changes: barter, money and finally digital cash. 
 We see crypto as a revolution of the same magnitude. 
@@ -156,13 +156,13 @@ This is why we created GAINS and this is what we are fighting for everyday.</p>
 
 </div>
                     <div class="container div6 container-fluid-sm mt-5">
-                    <div class="container container-sm my-5">
-                    <h1>Our Values</h1>
+                    <div class="container container-sm text-white">
+                    <h1 class="text-white mt-5">Our Values</h1>
                     <div class="row">
-                    <div class="col-12 col-lg-3>
+                    <div class="col-12 col-lg-3">
               
                     </div>
-                     <div class="col-12 col-lg-9>
+                     <div class="col-12 col-lg-9 text-white">
                       <h2>Skin In The Game</h2>
                     <p>We invest in all the deals we offer. We perform extensive research by studying materials and gathering inputs from our
                     community and network of very well connected people. We directly talk to the executive team of the project and figure out what they are made of.</p>
@@ -172,10 +172,10 @@ This is why we created GAINS and this is what we are fighting for everyday.</p>
 
 </div>                        
                         <div class="row">
-                    <div class="col-12 col-lg-3>
+                    <div class="col-12 col-lg-3 ">
                    
                     </div>
-                     <div class="col-12 col-lg-9>
+                     <div class="col-12 col-lg-9 text-white">
                       <h2>Long Term Vision</h2>
                     <p>Most people dream of getting rich fast. Contrarily, 
                     we are patient and have a long-term vision. We constantly improve by learning while staying independent and open-minded.</p>
@@ -186,10 +186,10 @@ This is why we created GAINS and this is what we are fighting for everyday.</p>
 
 </div>                  
                        <div class="row">
-                    <div class="col-12 col-lg-3>
+                    <div class="col-12 col-lg-3 ">
                    
                     </div>
-                     <div class="col-12 col-lg-9>
+                     <div class="col-12 col-lg-9 text-white">
                       <h2>Collaboration</h2>
                     <p>Connecting with people is at the heart of human nature and is necessary for
                     one’s well being. We share knowledge, discuss ideas and challenge opinions to grow together..</p>
