@@ -45,6 +45,10 @@
                 height: auto;
                 background-color: #1b4b72;
             }
+            .div6{
+             height: auto;
+                background-color: #1b4b72;
+            }
            .div4{
             height: auto;
                 background-color: #003345;
@@ -146,6 +150,52 @@ it can be hard to navigate this new ecosystem alone. Thus, finding help and guid
 <p>We want people to find a reliable and exciting place where they can actively learn, have fun and benefit from the best opportunities.
 This is why we created GAINS and this is what we are fighting for everyday.</p>
 </div>
+
+
+</div>
+
+</div>
+                    <div class="container div6 container-fluid-sm mt-5">
+                    <div class="container container-sm my-5">
+                    <h1>Our Values</h1>
+                    <div class="row">
+                    <div class="col-12 col-lg-3>
+              
+                    </div>
+                     <div class="col-12 col-lg-9>
+                      <h2>Skin In The Game</h2>
+                    <p>We invest in all the deals we offer. We perform extensive research by studying materials and gathering inputs from our
+                    community and network of very well connected people. We directly talk to the executive team of the project and figure out what they are made of.</p>
+                    </div>
+                    </div>
+
+
+</div>                        
+                        <div class="row">
+                    <div class="col-12 col-lg-3>
+                   
+                    </div>
+                     <div class="col-12 col-lg-9>
+                      <h2>Long Term Vision</h2>
+                    <p>Most people dream of getting rich fast. Contrarily, 
+                    we are patient and have a long-term vision. We constantly improve by learning while staying independent and open-minded.</p>
+                   <p>"Successful investing is getting others to agree with you… later." - James Grant</p>
+                     </div>
+                    </div>
+
+
+</div>                  
+                       <div class="row">
+                    <div class="col-12 col-lg-3>
+                   
+                    </div>
+                     <div class="col-12 col-lg-9>
+                      <h2>Collaboration</h2>
+                    <p>Connecting with people is at the heart of human nature and is necessary for
+                    one’s well being. We share knowledge, discuss ideas and challenge opinions to grow together..</p>
+                   <p>Nothing of significance was ever achieved by an individual acting alone.</p>
+                     </div>
+                    </div>
 
 
 </div>
