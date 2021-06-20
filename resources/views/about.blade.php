@@ -128,8 +128,30 @@ Nowadays, we are humbled to have a vibrant community of supporters, and that is 
 
 </div>
 </div>
+</div>
+                    <div class="container container-sm mt-5">
+<div class="row  flex-sm-rw-reverse ">
+<div class="col-12 col-lg-7">
+<div class="col-12 col-lg-5">
+<img src="{{asset('image/story.jpg')}}" class="img-fluid mb-2">
 
 </div>
+<h1>Our Vision</h1>
+<p> In the history of how we exchange value, we have only had 3 major changes: barter, money and finally digital cash. 
+We see crypto as a revolution of the same magnitude. 
+It appears as the best bet to become the foundation for a new financial paradigm that promotes fairness and trust..</p>
+
+<p>Blockchain and crypto will bring more transparency, traceability, security, and offer seamless, free and instant transactions. However, 
+it can be hard to navigate this new ecosystem alone. Thus, finding help and guidance in a great community is crucial..</p>
+<p>We want people to find a reliable and exciting place where they can actively learn, have fun and benefit from the best opportunities.
+This is why we created GAINS and this is what we are fighting for everyday.</p>
+</div>
+
+
+</div>
+
+</div>
+
 
 <footer class="footer" >
 <div class="container container-sm">
