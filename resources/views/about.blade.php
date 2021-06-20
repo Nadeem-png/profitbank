@@ -212,15 +212,15 @@ This is why we created GAINS and this is what we are fighting for everyday.</p>
          <div class="card">
     <img class="card-img-top img-fluid" src="{{asset('image/g3.jpg')}}" alt="Card image">
     <div class="card-body">
-    <div class="d-flex justify-content-center align-items-center">
-    <img class="img-fluid text-center rounded-circle mt-n5" src="{{asset('image/1.jpg')}}" alt="Card image" height="120px" width="120px">
+    
+   <center> <img class="img-fluid text-center rounded-circle mt-n5" src="{{asset('image/1.jpg')}}" alt="Card image" height="120px" width="120px"> </center> 
       <h4 class="card-title text-center">Alexandre Raffin</h4>
       <h6 class="card-text text-center">CEO & Co-Founder</h6>
        <i class="fab fa-linkedin-in text-center text-success fa-2x"></i>
-       </div>
+      
    
        <hr>
-      <a href="#" class="btn btn-outline-primary text-center">View Bio</a>
+     <center>  <a href="#" class="btn btn-outline-primary text-center">View Bio</a> </center>
     </div>
   </div>
          
