@@ -111,7 +111,7 @@
 </div>
 <div class="container container-sm mt-5>
 <div class="row  flex-sm-rw-reverse ">
-<div class="col-12 col-lg-7>
+<div class="col-12 col-lg-7">
 <h1>Our Story</h1>
 <p> We are a group of friends who are passionate about new technologies. 
 We took an early interest in Bitcoin and started investing in ICOs in late 2017.</p>
@@ -123,7 +123,7 @@ However, it was very risky because most pool admins were anonymous which meant t
 Nowadays, we are humbled to have a vibrant community of supporters, and that is just the beginning!</p>
 </div>
 
-<div class="col-12 col-lg-5>
+<div class="col-12 col-lg-5">
 <img src="{{asset('image/story.jpg')}}" class="img-fluid mb-2">
 
 </div>
