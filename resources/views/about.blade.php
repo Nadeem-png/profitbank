@@ -46,7 +46,7 @@
                 background-color: #1b4b72;
             }
             .div6{
-             height: 600px;
+             height: 750px;
                 background-color: #1b4b72;
             }
            .div4{
@@ -156,8 +156,8 @@ This is why we created GAINS and this is what we are fighting for everyday.</p>
 
 </div>
                     <div class="container div6 container-fluid-sm mt-5">
-                    <div class="container container-sm text-white">
-                    <h1 class="text-white mt-5">Our Values</h1>
+                    <div class="container container-sm py-3 text-white">
+                    <h1 class="text-white  mb-4">Our Values</h1>
                     <div class="row">
                     <div class="col-12 col-lg-3">
               
@@ -166,7 +166,7 @@ This is why we created GAINS and this is what we are fighting for everyday.</p>
                       <h2>Skin In The Game</h2>
                     <p>We invest in all the deals we offer. We perform extensive research by studying materials and gathering inputs from our
                     community and network of very well connected people. We directly talk to the executive team of the project and figure out what they are made of.</p>
-                    </div>
+                  
                     </div>
 
 
@@ -181,7 +181,7 @@ This is why we created GAINS and this is what we are fighting for everyday.</p>
                     we are patient and have a long-term vision. We constantly improve by learning while staying independent and open-minded.</p>
                    <p>"Successful investing is getting others to agree with you… later." - James Grant</p>
                      </div>
-                    </div>
+                   
 
 
 </div>                  
