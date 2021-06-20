@@ -109,6 +109,27 @@
 </div>
 
 </div>
+<div class="container container-sm mt-5>
+<div class="row  row-reverse-sm>
+<div class="col-12 col-lg-7>
+<h1>Our Story</h1>
+<p> We are a group of friends who are passionate about new technologies. 
+We took an early interest in Bitcoin and started investing in ICOs in late 2017.</p>
+
+<p>At the time, the ICO market was in a frenzy. Public sales were often oversubscribed and people were competing for small investing spots.
+Therefore, pools emerged. They were groups of retail investors grouping their contributions to be able to negotiate better terms.
+However, it was very risky because most pool admins were anonymous which meant they could easily disappear with people’s hard earned money.</p>
+<p>This is why we decided to create our own community. To be fully transparent, we shared our social media profiles and showed our faces on video.
+Nowadays, we are humbled to have a vibrant community of supporters, and that is just the beginning!</p>
+</div>
+
+<div class="col-12 col-lg-5>
+<img src="{{asset('image/pic.jpg')}}" class="img-fluid mb-2">
+
+</div>
+</div>
+
+</div>
 
 <footer class="footer" >
 <div class="container container-sm">
