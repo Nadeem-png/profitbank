@@ -46,7 +46,7 @@
                 background-color: #1b4b72;
             }
             .div6{
-             height: 750px;
+             height: 810px;
                 background-color: #1b4b72;
             }
            .div4{
