@@ -209,15 +209,15 @@ This is why we created GAINS and this is what we are fighting for everyday.</p>
          <h1 class="text-center mb-4">Our Team</h1>
          <div class="row">
          <div class="col-12 col-lg-4 ">
-         <div class="card" style="width:400px">
-    <img class="card-img-top" src="{{asset('image/g3.jpg')}}" alt="Card image" style="width:100%">
+         <div class="card">
+    <img class="card-img-top img-fluid" src="{{asset('image/g3.jpg')}}" alt="Card image">
     <div class="card-body">
-    <img class="img-fluid text-center rounded-circle mt-n5" src="{{asset('image/1.jpg')}}" alt="Card image">
+    <img class="img-fluid text-center rounded-circle mt-n5" src="{{asset('image/1.jpg')}}" alt="Card image" height="100px" width="100px">
       <h4 class="card-title text-center">Alexandre Raffin</h4>
       <h6 class="card-text text-center">CEO & Co-Founder</h6>
-       <i class="fab fa-linkedin-in fa-2x"></i>
+       <i class="fab fa-linkedin-in text-center text-success fa-2x"></i>
        <hr>
-      <a href="#" class="btn btn-outline-primary">View Bio</a>
+      <a href="#" class="btn btn-outline-primary text-center">View Bio</a>
     </div>
   </div>
          
@@ -225,7 +225,7 @@ This is why we created GAINS and this is what we are fighting for everyday.</p>
          </div>
          <div class="col-12 col-lg-4"></div>
          <div class="col-12 col-lg-4"></div>
-         
+         </div>
          </div>
 
 
