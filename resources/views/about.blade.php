@@ -208,7 +208,7 @@ This is why we created GAINS and this is what we are fighting for everyday.</p>
          <div class="container container-sm mt-5">
          <h1 class="text-center mb-4">Our Team</h1>
          <div class="row">
-         <div class="col-12 col-lg-4 ">
+         <div class="col-12 col-lg-4 mb-3 ">
          <div class="card">
     <img class="card-img-top img-fluid" src="{{asset('image/g3.jpg')}}" alt="Card image">
     <div class="card-body">
@@ -226,7 +226,7 @@ This is why we created GAINS and this is what we are fighting for everyday.</p>
          
          
          </div>
-            <div class="col-12 col-lg-4 ">
+            <div class="col-12 col-lg-4 mb-3 ">
          <div class="card">
     <img class="card-img-top img-fluid" src="{{asset('image/g3.jpg')}}" alt="Card image">
     <div class="card-body">
@@ -244,7 +244,7 @@ This is why we created GAINS and this is what we are fighting for everyday.</p>
          
          
          </div>
-            <div class="col-12 col-lg-4 ">
+            <div class="col-12 col-lg-4 mb-3 ">
          <div class="card">
     <img class="card-img-top img-fluid" src="{{asset('image/g3.jpg')}}" alt="Card image">
     <div class="card-body">
