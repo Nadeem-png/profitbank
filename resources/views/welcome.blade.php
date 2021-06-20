@@ -177,7 +177,7 @@ background-color:white;
         Discover new projects  |  Participate in Events  |  Investment Opportunities
      </h5>
      <a href="" class="btn btn-primary mb-3   px-5 py-3 b1 font-weight-bold">Join our Telegram Group &nbsp; <i class="fab fa-telegram-plane text-white fa-2x"></i></a>
-        <a href="" class="btn btn-white bg-white px-5 py-3 ml-2  b2 font-weight-bold">Gains Deck</a>
+       
  </div>
 </div>
 </div>
@@ -186,14 +186,7 @@ background-color:white;
 
 
 </header>
-<div class="container-fluid">
-    <div class="row div" >
-        <div class="col-lg col-xs-6 lg col-sm-6 mb-2  col-md-6 text-white text-center mt-3" style="font-size: 23px">30+ <br>Projects worked with</div>
-        <div class="col-lg col-xs-6 col-sm-6  col-md-6  mb-2 text-white text-center mt-3" style="font-size: 23px">$3M+ <br>Raised for projects</div>
-        <div class="col-lg col-xs-6 col-sm-6 col-md-6 mb-2 text-white text-center mt-3" style="font-size: 23px">10,000+ <br>Active members</div>
-        <div class="col-lg col-xs-6 col-sm-6 col-md-6 mb-2 text-white text-center mt-3" style="font-size: 23px">20+ <br>Conferences attended</div>
-    </div>
-    </div>
+
     <div class="container container-sm mt-5 text-center">
    <div data-aos="fade-up"
      data-aos-duration="3000">
@@ -256,7 +249,7 @@ background-color:white;
     <div class="col-12  col-lg-3  mb-4" >
     <div class="card p-3 rank">
     <div class="card-text text-white">
-    <h4 class=" text-center mt-3">Tire 1</h4>
+    <h4 class=" text-center mt-3">Silver</h4>
     <h5 class="text-center">PROFIT SILVER FISHES</h5>
     </div>
     <img src="{{asset('image/shark.jpg')}}" alt="" class="card-img rounded-circle">
@@ -271,7 +264,7 @@ background-color:white;
     <div class="col-12  col-lg-3  mb-4" >
     <div class="card p-3 rank">
     <div class="card-text text-white">
-    <h4 class=" text-center mt-3">Tire 2</h4>
+    <h4 class=" text-center mt-3">Gold</h4>
     <h5 class="text-center">PROFIT SLEEK DOLPHINS</h5>
     </div>
     <img src="{{asset('image/shark.jpg')}}" alt="" class="card-img rounded-circle">
@@ -286,7 +279,7 @@ background-color:white;
     <div class="col-12  col-lg-3 mb-4 " >
     <div class="card p-3 rank">
     <div class="card-text text-white">
-    <h4 class=" text-center mt-3">Tire 3</h4>
+    <h4 class=" text-center mt-3">Platinum</h4>
     <h5 class="text-center">PROFIT BLUE<br> WHALE</h5>
     </div>
     <img src="{{asset('image/shark.jpg')}}" alt="" class="card-img rounded-circle">
@@ -301,7 +294,7 @@ background-color:white;
     <div class="col-12  col-lg-3 mb-4" >
     <div class="card p-3 rank">
     <div class="card-text text-white">
-    <h4 class=" text-center mt-3">Tire 4</h4>
+    <h4 class=" text-center mt-3">Diamond</h4>
     <h5 class="text-center">PROFIT SLEEK DOLPHINS</h5>
     </div>
     <img src="{{asset('image/shark.jpg')}}" alt="" class="card-img rounded-circle">
@@ -341,7 +334,7 @@ Earn returns the smartest way by staking and farming. Which will be invested in 
         <h5 class="text-center text-dark mt-5">Pooling</h5>
         <p class="text-center text-dark">
 Pooling PFB for pre-qualified projects for a fixed period. Returns are stated by each pool and
-			 they all have a minimum ROI, that is paid back in PFB.          </p>
+			 they all have a minimum ROI, that is paid back in PBANK.          </p>
 </div>
 </div>
      <div data-aos="fade-up"
@@ -350,7 +343,7 @@ Pooling PFB for pre-qualified projects for a fixed period. Returns are stated by
         <img src="{{asset('image/handship.jpg')}}" alt="" class="img-fluid text-center w-25 h-25 mt-5">
         <h5 class="text-center text-dark mt-5">Rewards</h5>
         <p class="text-center text-dark">
-Get rewarded for holding PFB, the native PROFIT BANK token. We have expertly designed our 
+Get rewarded for holding PBANK, the native PROFIT BANK token. We have expertly designed our 
 			contract to bring rewards to all our token holders.
         </p>
 </div>
@@ -373,70 +366,6 @@ Get rewarded for holding PFB, the native PROFIT BANK token. We have expertly des
     </div>
   </div>
 </div>
-</div>
- 
-<div class="container" style="margin-top: 100px">
-<div data-aos="fade-up"
-     data-aos-duration="3000">
-     <h1 class="text-center mt-5 mb-5">Profit Company Clients</h1>
-    <div class="row">
-        <div class="col btn">
-            <img src="{{asset('image/1.jpg')}}" alt="" class="img-fluid">
-        </div>
-        <div class="col btn">
-            <img src="{{asset('image/2.jpg')}}" alt="" class="img-fluid">
-        </div>
-        <div class="col btn">
-            <img src="{{asset('image/4.jpg')}}" alt="" class="img-fluid">
-        </div>
-        <div class="col btn">
-            <img src="{{asset('image/3.png')}}" alt="" class="img-fluid">
-        </div>
-        <div class="col btn">
-            <img src="{{asset('image/5.png')}}" alt="" class="img-fluid">
-        </div>
-    </div>
-
-
-    <div class="row mt-5">
-        <div class="col btn">
-            <img src="{{asset('image/3.png')}}" alt="" class="img-fluid">
-        </div>
-        <div class="col btn">
-            <img src="{{asset('image/6.png')}}" alt="" class="img-fluid">
-        </div>
-        <div class="col btn">
-            <img src="{{asset('image/5.png')}}" alt="" class="img-fluid">
-        </div>
-        <div class="col btn">
-            <img src="{{asset('image/6.png')}}" alt="" class="img-fluid">
-        </div>
-        <div class="col btn">
-            <img src="{{asset('image/3.png')}}" alt="" class="img-fluid">
-        </div>
-    </div>
-
-
-    <div class="row mt-5">
-        <div class="col btn">
-            <img src="{{asset('image/1.jpg')}}" alt="" class="img-fluid">
-        </div>
-        <div class="col btn">
-            <img src="{{asset('image/2.jpg')}}" alt="" class="img-fluid">
-        </div>
-        <div class="col btn">
-            <img src="{{asset('image/4.jpg')}}" alt="" class="img-fluid">
-        </div>
-        <div class="col btn">
-            <img src="{{asset('image/1.jpg')}}" alt="" class="img-fluid">
-        </div>
-        <div class="col btn">
-            <img src="{{asset('image/2.jpg')}}" alt="" class="img-fluid">
-        </div>
-    </div>
-
-</div>
-    
 </div>
 
 
