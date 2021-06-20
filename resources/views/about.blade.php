@@ -110,7 +110,7 @@
 
 </div>
 <div class="container container-sm mt-5>
-<div class="row  row-reverse-sm>
+<div class="row  flex-sm-rw-reverse ">
 <div class="col-12 col-lg-7>
 <h1>Our Story</h1>
 <p> We are a group of friends who are passionate about new technologies. 
@@ -124,7 +124,7 @@ Nowadays, we are humbled to have a vibrant community of supporters, and that is 
 </div>
 
 <div class="col-12 col-lg-5>
-<img src="{{asset('image/pic.jpg')}}" class="img-fluid mb-2">
+<img src="{{asset('image/story.jpg')}}" class="img-fluid mb-2">
 
 </div>
 </div>
