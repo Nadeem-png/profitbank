@@ -85,9 +85,7 @@
                 <a href="/faq" class="nav-link a1 ml-5 font-weight-bold">FAQ</a>
             </li>
 
-            <li class="nav-item" @yield('nava')>
-                <a href="/faq" class="nav-link a1 ml-5 font-weight-bold border py-2 px-4" style="border-color: white">LOGIN</a>
-            </li>
+          
 
 
         </ul>
