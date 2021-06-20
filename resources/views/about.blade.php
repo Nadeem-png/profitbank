@@ -216,7 +216,7 @@ This is why we created GAINS and this is what we are fighting for everyday.</p>
    <center> <img class="img-fluid text-center rounded-circle mt-n5" src="{{asset('image/1.jpg')}}" alt="Card image" height="120px" width="120px"> </center> 
       <h4 class="card-title text-center">Alexandre Raffin</h4>
       <h6 class="card-text text-center">CEO & Co-Founder</h6>
-       <i class="fab fa-linkedin-in text-center text-success fa-2x"></i>
+       <p class="text-center"><i class="fab fa-linkedin-in  text-primary fa-2x"></i></p>
       
    
        <hr>
