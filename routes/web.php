@@ -31,3 +31,6 @@ Route::get('/blog', function () {
 Route::get('/event', function () {
     return view('event');
 });
+Route::get('/about', function () {
+    return view('about');
+});
