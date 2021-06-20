@@ -160,6 +160,7 @@ This is why we created GAINS and this is what we are fighting for everyday.</p>
                     <h1 class="text-white  mb-4">Our Values</h1>
                     <div class="row">
                     <div class="col-12 col-lg-3">
+                    <i class="far fa-lightbulb text-white fa-2x"></i>
               
                     </div>
                      <div class="col-12 col-lg-9 text-white">
@@ -173,6 +174,7 @@ This is why we created GAINS and this is what we are fighting for everyday.</p>
 </div>                        
                         <div class="row">
                     <div class="col-12 col-lg-3 ">
+                    <i class="fas fa-tree text-white fa-2x"></i>
                    
                     </div>
                      <div class="col-12 col-lg-9 text-white">
@@ -187,6 +189,7 @@ This is why we created GAINS and this is what we are fighting for everyday.</p>
 </div>                  
                        <div class="row">
                     <div class="col-12 col-lg-3 ">
+                    <i class="fas fa-hands-helping text-white fa-2x"></i>
                    
                     </div>
                      <div class="col-12 col-lg-9 text-white">
