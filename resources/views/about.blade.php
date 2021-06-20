@@ -109,7 +109,7 @@
 </div>
 
 </div>
-<div class="container container-sm mt-5>
+<div class="container container-sm mt-5">
 <div class="row  flex-sm-rw-reverse ">
 <div class="col-12 col-lg-7">
 <h1>Our Story</h1>
