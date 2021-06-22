@@ -200,7 +200,7 @@ background-color:white;
      <div class="row mx-auto">
      
      <div class="col-12  col-lg-4  mb-4" >
-    <div class="card p-3 work h-100">
+    <div class="card card1 p-3 work h-100">
     <div class="card-text text-white">
     <h2 class=" text-center mt-3"> Smart Contracts</h2>
     <p class="text-center">The assets are stored in a non-custodial way and the trades are executed using
@@ -209,7 +209,7 @@ background-color:white;
     </div>
     </div>
       <div class="col-12  col-lg-4  mb-4" >
-    <div class="card p-3 work h-100 ">
+    <div class="card p-3 card1 work h-100 ">
     <div class="card-text text-white">
     <h2 class=" text-center mt-3"> Traders</h2>
     <p class="text-center">Any fund manager/trader can deploy contract to start their fund using the protocol.
@@ -219,7 +219,7 @@ background-color:white;
     </div>
     </div>
        <div class="col-12  col-lg-4  mb-4" >
-    <div class="card p-3 work h-100">
+    <div class="card card1 p-3 work h-100">
     <div class="card-text text-white">
     <h2 class=" text-center mt-3">Funds</h2>
     <p class="text-center">Profit Bank state of the art funds and strategies which analyse the markets and 
