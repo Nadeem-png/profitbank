@@ -114,6 +114,8 @@
 
 </div>
 <div class="container container-sm mt-5">
+ <div data-aos="fade-up"
+     data-aos-duration="3000">
 <div class="row  d-flex flex-xs-row-reverse ">
 <div class="col-12 col-lg-7">
 <h1>Our Story</h1>
@@ -133,7 +135,10 @@ Nowadays, we are humbled to have a vibrant community of supporters, and that is 
 </div>
 </div>
 </div>
+</div>
                    <div class="container container-sm mt-5">
+                    <div data-aos="fade-up"
+     data-aos-duration="3000">
 <div class="row   ">
 
 <div class="col-12 col-lg-5">
@@ -153,12 +158,14 @@ This is why we created GAINS and this is what we are fighting for everyday.</p>
 
 
 </div>
-
+</div>
 </div>
                     <div class="container div6 container-fluid-sm mt-5">
                     <div class="container container-sm py-3 text-white">
                     <h1 class="text-white  mb-4">Our Values</h1>
                     <div class="row">
+                     <div data-aos="fade-up"
+     data-aos-duration="3000">
                     <div class="col-12 col-lg-3">
                     <i class="far fa-lightbulb text-white fa-2x"></i>
               
@@ -169,10 +176,12 @@ This is why we created GAINS and this is what we are fighting for everyday.</p>
                     community and network of very well connected people. We directly talk to the executive team of the project and figure out what they are made of.</p>
                   
                     </div>
-
+</div>
 
 </div>                        
                         <div class="row">
+                         <div data-aos="fade-up"
+     data-aos-duration="3000">
                     <div class="col-12 col-lg-3 ">
                     <i class="fas fa-tree text-white fa-2x"></i>
                    
@@ -183,11 +192,13 @@ This is why we created GAINS and this is what we are fighting for everyday.</p>
                     we are patient and have a long-term vision. We constantly improve by learning while staying independent and open-minded.</p>
                    <p>"Successful investing is getting others to agree with you… later." - James Grant</p>
                      </div>
-                   
+                   </div>
 
 
 </div>                  
                        <div class="row">
+                        <div data-aos="fade-up"
+     data-aos-duration="3000">
                     <div class="col-12 col-lg-3 ">
                     <i class="fas fa-hands-helping text-white fa-2x"></i>
                    
@@ -200,7 +211,7 @@ This is why we created GAINS and this is what we are fighting for everyday.</p>
                      </div>
                     </div>
 
-
+</div>
 </div>
 
 </div>    
