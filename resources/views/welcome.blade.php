@@ -315,8 +315,8 @@ background-color:white;
         <div class="row">
         <div data-aos="fade-up"
      data-aos-duration="3000">
-       <div class="col-lg col-sm-12 col-md-12 bg-white mr-2 text-center mt-5 bor">
-       <div class="card text-center py-4 px-3">
+       <div class="col-lg-4 col-sm-12 col-md-12 bg-white mr-2 text-center mt-5 ">
+       <div class="card text-center text-white py-4 px-3">
        <div class="card-body">
           <img src="{{asset('image/images.png')}}" alt="" class="img-fluid text-center w-25 h-25 mt-5">
         <h5 class="text-center text-dark mt-5">Staking</h5>
@@ -333,25 +333,40 @@ Earn returns the smartest way by staking and farming. Which will be invested in 
       
 <div data-aos="fade-up"
      data-aos-duration="3000">
-        <div class="col-lg col-sm-12 col-md-12 bg-white mr-2 mt-5 text-center bor" style="height: 400px; width:100%;">
+     <div class="col-lg-4 col-sm-12 col-md-12 bg-white mr-2 text-center mt-5 ">
+       <div class="card text-center text-white py-4 px-3">
+       <div class="card-body">
         <img src="{{asset('image/c1.jpg')}}" alt="" class="img-fluid text-center w-25 h-25 mt-5" >
         <h5 class="text-center text-dark mt-5">Pooling</h5>
         <p class="text-center text-dark">
 Pooling PFB for pre-qualified projects for a fixed period. Returns are stated by each pool and
 			 they all have a minimum ROI, that is paid back in PBANK.          </p>
-</div>
+<div
+       
+       </div>
+ 
+        </div>
 </div>
      <div data-aos="fade-up"
      data-aos-duration="3000">
-     <div class="col-lg col-sm-12 col-md-12 bg-white bor mt-5 text-center mb-5" style="height: 400px; width:100%;">
+      <div class="col-lg-4 col-sm-12 col-md-12 bg-white mr-2 text-center mt-5 ">
+       <div class="card text-center text-white py-4 px-3">
+       <div class="card-body">
         <img src="{{asset('image/handship.jpg')}}" alt="" class="img-fluid text-center w-25 h-25 mt-5">
         <h5 class="text-center text-dark mt-5">Rewards</h5>
         <p class="text-center text-dark">
 Get rewarded for holding PBANK, the native PROFIT BANK token. We have expertly designed our 
 			contract to bring rewards to all our token holders.
         </p>
+        </div>
+ 
+        </div>
 </div>
 </div>
+
+
+
+
 
 </div>
     </div>
