@@ -200,7 +200,7 @@ background-color:white;
      <div class="row mx-auto">
      
      <div class="col-12  col-lg-4  mb-4" >
-    <div class="card p-3 work ">
+    <div class="card p-3 work h-100">
     <div class="card-text text-white">
     <h2 class=" text-center mt-3"> Smart Contracts</h2>
     <p class="text-center">The assets are stored in a non-custodial way and the trades are executed using
@@ -209,7 +209,7 @@ background-color:white;
     </div>
     </div>
       <div class="col-12  col-lg-4  mb-4" >
-    <div class="card p-3 work ">
+    <div class="card p-3 work h-100 ">
     <div class="card-text text-white">
     <h2 class=" text-center mt-3"> Traders</h2>
     <p class="text-center">Any fund manager/trader can deploy contract to start their fund using the protocol.
@@ -219,7 +219,7 @@ background-color:white;
     </div>
     </div>
        <div class="col-12  col-lg-4  mb-4" >
-    <div class="card p-3 work ">
+    <div class="card p-3 work h-100">
     <div class="card-text text-white">
     <h2 class=" text-center mt-3">Funds</h2>
     <p class="text-center">Profit Bank state of the art funds and strategies which analyse the markets and 
@@ -260,12 +260,12 @@ background-color:white;
   
     </div>
     <div class="col-12  col-lg-3  mb-4" >
-    <div class="card p-3 rank">
+    <div class="card p-3 text-center rank">
     <div class="card-text text-white">
     <h4 class=" text-center mt-3">Gold</h4>
     <h5 class="text-center">PROFIT SLEEK DOLPHINS</h5>
     </div>
-    <img src="{{asset('image/shark.jpg')}}" alt="" class="card-img rounded-circle">
+    
 <div class="card-text text-white mt-2">
 <h5 class="text-center">30,000 PROFIT</h5>
                 <h6 class="text-center">15% of allocations</h6>
@@ -275,12 +275,12 @@ background-color:white;
   
     </div>
     <div class="col-12  col-lg-3 mb-4 " >
-    <div class="card p-3 rank">
+    <div class="card p-3 text-center rank">
     <div class="card-text text-white">
     <h4 class=" text-center mt-3">Platinum</h4>
     <h5 class="text-center">PROFIT BLUE<br> WHALE</h5>
     </div>
-    <img src="{{asset('image/shark.jpg')}}" alt="" class="card-img rounded-circle">
+   
 <div class="card-text text-white mt-2">
 <h5 class="text-center">200,000 PROFIT</h5>
                 <h6 class="text-center">50% of allocations</h6>
@@ -290,12 +290,12 @@ background-color:white;
   
     </div>
     <div class="col-12  col-lg-3 mb-4" >
-    <div class="card p-3 rank">
+    <div class="card p-3 text-center rank">
     <div class="card-text text-white">
     <h4 class=" text-center mt-3">Diamond</h4>
     <h5 class="text-center">PROFIT SLEEK DOLPHINS</h5>
     </div>
-    <img src="{{asset('image/shark.jpg')}}" alt="" class="card-img rounded-circle">
+
 <div class="card-text text-white mt-2">
 <h5 class="text-center">100,000 PROFIT</h5>
                 <h6 class="text-center">25% of allocations</h6>
@@ -367,58 +367,6 @@ Get rewarded for holding PBANK, the native PROFIT BANK token. We have expertly d
 </div>
 
 
-<div class="blog" >
- <div class="container">
- <div data-aos="fade-up"
-     data-aos-anchor-placement="top-bottom">
-      <h1 class="text-center text-white" style="margin-bottom: 50px">Profit Bank BLOG</h1>
-    <div class="row">
-      <div class="col-lg col-sm-12 col-md col-xs-12 mb-3">
-                   <div class="card">
-                    <img class="card-img-top" src="{{asset('image/4.jpg')}}" alt="Card image" style="width:100%; height: 300px">
-                    <div class="card-body  text-white">
-                        <h4 class="card-title text-white">John Doe</h4>
-                        <p class="card-text text-white">Some example text some example text. John Doe is an architect and engineer</p>
-                        <a href="#" class="btn text-danger float-right">Read More</a>
-                    </div>
-                </div>
-
-            </div>
-
-        <div class="col-lg col-sm-12 col-md col-xs-12  mb-3">
-            <div class="card" >
-                <img class="card-img-top" src="{{asset('image/4.jpg')}}" alt="Card image" style="width:100%; height: 300px">
-                <div class="card-body">
-                    <h4 class="card-title text-white">John Doe</h4>
-                    <p class="card-tex text-white">Some example text some example text. John Doe is an architect and engineer</p>
-                    <a href="#" class="btn  text-dangerfloat-right">Read More</a>
-                </div>
-            </div>
-
-        </div>
-
-        <div class="col-lg col-sm-12 col-md col-xs-12 mb-5  mb-3">
-            <div class="card">
-                <img class="card-img-top" src="{{asset('image/4.jpg')}}" alt="Card image" style="width:100%; height: 300px">
-                <div class="card-body">
-                    <h4 class="card-title text-white">John Doe</h4>
-                    <p class="card-text text-white">Some example text some example text. John Doe is an architect and engineer</p>
-                    <a href="#" class="btn  text-danger float-right">Read More</a>
-                </div>
-            </div>
-
-        </div>
-</div>
-  
-
-    </div>
-
-    <center>
-    <a href="" class="btn btn-outline-danger py-2 px-5 roundd-pill " style="text-decoration: none;font-size: 20px">More Articles</a>
-    </center>
-</div>
-
-  
 <div class="container container-sm mt-5 py-3">
 <div data-aos="fade-up"
      data-aos-duration="3000">
