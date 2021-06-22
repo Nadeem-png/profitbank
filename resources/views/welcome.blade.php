@@ -70,8 +70,9 @@
                 background-color: #1b4b72;
             
             }
-            .div1{
+            .offer{
                 background-color: #1b4b72;
+                height:auto;
             }
             
             .bor{
@@ -112,6 +113,12 @@
                 border:;
                 border-radius: 20px
             }
+            .card2{
+               
+                border:2px solid white;
+                border-radius: 20px
+            }
+            
 @media screen and (min-width: 320px) and (max-width: 767px){
 .nav1{
 background-color:white;
@@ -307,6 +314,40 @@ background-color:white;
     </div>
     </div>
     </div>
+    
+    
+     <div class="offer">
+       <div class="container container-sm">
+        <h1 class="text-center mt-5 text-white py-3" >ProfitBank Offers you</h1>
+          <div class="row">
+              <div data-aos="fade-up"
+     data-aos-duration="3000">
+      <div class="col-lg-4 col-sm-12 col-md-12 bg-white card2  text-center mt-5">
+      <div class="card text-center text-white py-4 px-3">
+       <div class="card-body">
+          <img src="{{asset('image/images.png')}}" alt="" class="img-fluid text-center w-25 h-25 mt-5">
+        <h5 class="text-center card-text text-dark mt-5">Staking</h5>
+        <p class="text-center card-text text-dark">
+Earn returns the smartest way by staking and farming. Which will be invested in the best
+			 DeFi platforms and earn bonus– boosting profits further.
+        </p>
+        </div>
+     </div>
+      </div>
+     
+     </div>
+     
+     
+     
+     
+     
+          </div>
+       </div>
+     </div>
+    
+    
+    
+    
     
     <div class="div1">
     <div class="container container-sm">
