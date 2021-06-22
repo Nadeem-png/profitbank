@@ -245,12 +245,12 @@ background-color:white;
 
     <div class="row mx-auto">
     <div class="col-12  col-lg-3  mb-4" >
-    <div class="card p-3 rank">
+    <div class="card py-4 px-3 text-center rank">
     <div class="card-text text-white">
     <h4 class=" text-center mt-3">Silver</h4>
     <h5 class="text-center">PROFIT SILVER FISHES</h5>
     </div>
-    <img src="{{asset('image/shark.jpg')}}" alt="" class="card-img rounded-circle">
+    
 <div class="card-text text-white mt-2">
 <h5 class="text-center">10,000 PROFIT</h5>
                 <h6 class="text-center">10% of allocations</h6>
@@ -260,7 +260,7 @@ background-color:white;
   
     </div>
     <div class="col-12  col-lg-3  mb-4" >
-    <div class="card p-3 text-center rank">
+    <div class="card py-4 px-3 text-center rank">
     <div class="card-text text-white">
     <h4 class=" text-center mt-3">Gold</h4>
     <h5 class="text-center">PROFIT SLEEK DOLPHINS</h5>
@@ -275,7 +275,7 @@ background-color:white;
   
     </div>
     <div class="col-12  col-lg-3 mb-4 " >
-    <div class="card p-3 text-center rank">
+    <div class="card py-4 px-3 text-center rank">
     <div class="card-text text-white">
     <h4 class=" text-center mt-3">Platinum</h4>
     <h5 class="text-center">PROFIT BLUE<br> WHALE</h5>
@@ -290,7 +290,7 @@ background-color:white;
   
     </div>
     <div class="col-12  col-lg-3 mb-4" >
-    <div class="card p-3 text-center rank">
+    <div class="card py-4 px-3 text-center rank">
     <div class="card-text text-white">
     <h4 class=" text-center mt-3">Diamond</h4>
     <h5 class="text-center">PROFIT SLEEK DOLPHINS</h5>
@@ -315,13 +315,19 @@ background-color:white;
         <div class="row">
         <div data-aos="fade-up"
      data-aos-duration="3000">
-       <div class="col-lg col-sm-12 col-md-12 bg-white mr-2 text-center mt-5 bor" style="height: 400px; width:100%;">
-    <img src="{{asset('image/images.png')}}" alt="" class="img-fluid text-center w-25 h-25 mt-5">
+       <div class="col-lg col-sm-12 col-md-12 bg-white mr-2 text-center mt-5 bor">
+       <div class="card text-center py-4 px-3">
+       <div class="card-body">
+          <img src="{{asset('image/images.png')}}" alt="" class="img-fluid text-center w-25 h-25 mt-5">
         <h5 class="text-center text-dark mt-5">Staking</h5>
         <p class="text-center text-dark">
 Earn returns the smartest way by staking and farming. Which will be invested in the best
 			 DeFi platforms and earn bonus– boosting profits further.
         </p>
+       <div
+       
+       </div>
+ 
         </div>
 </div>
       
