@@ -381,17 +381,33 @@ Get rewarded for holding PBANK, the native PROFIT BANK token. We have expertly d
     
    
 
-<div class="container container-sm mt-5 div2">
- <div data-aos="fade-up"
+<div class="container container-sm mt-5">
+<div data-aos="fade-up"
      data-aos-duration="3000">
- <div class="card">
-    <div class="card-body text-center text-white">
-      <h4 class="card-title text-center text-white">About</h4>
-      <p class="card-text text-center text-white">Credibility is key but our platform takes out the trust element of the process and our
-      clients get paid before the project does. We also have markers to safeguard investments using our unique system tools to analyse 
-      where the project is going. If the project looks like it could fail, then our system automatically pulls out our position to safeguard our capital. </p>
-    </div>
-  </div>
+<div class="row  d-flex flex-xs-row-reverse ">
+<div class="col-12 col-lg-7">
+<h1>About</h1>
+<p>A trust less platform that allows anyone to invest without giving away custody of the asset to
+any manager/trader who trades it for profit. Smart contracts written using a Turing-complete programming
+language govern the terms of exchange and allow investors to have full control over their assets while allowing a defined control
+to world’s best managers/traders who invest and make money. Before now the Investment Funds and Banks would favour certain brokers 
+even if they were not the best simply to give jobs to their friends. Now you can see who the top preforming traders are and chose
+them regardless of who they work for. Giving you total control of your ability to make profit. 
+So, you do not need to understand what they are doing you just need to understand how much money they made!!!</p>
+
+<p>Credibility is key but our platform takes out the trust element of the process and
+our clients get paid before the project does. We also have markers to safeguard investments using our unique system tools to analyse
+where the project is going. If the project looks like it could fail, then our system automatically pulls out our position to safeguard our capital. </p>
+<p><It also watches other markets that could impact our
+position so if the crypto market takes a big hit, then the
+system will warn us, and we can then put counter measures in place to hedge against loses./p>
+</div>
+
+<div class="col-12 col-lg-5">
+<img src="{{asset('image/story.jpg')}}" class="img-fluid mb-2">
+
+</div>
+</div>
 </div>
 </div>
 
