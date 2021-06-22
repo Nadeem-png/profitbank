@@ -107,7 +107,7 @@
                 margin-top: 100px;
                
             }
-             .card{
+             .card1{
                 background-color: #1b4b72;
                 border:;
                 border-radius: 20px
