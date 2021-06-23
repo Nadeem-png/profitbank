@@ -57,7 +57,7 @@
 </div>
 </div>
             </header>
-            <div class="container">
+            <div class="container contanier-sm">
             <div class="row mx-auto">
             <div class="col-12 col-lg-7 py-3 text-black">
             <a href="" class=" mr-2 text-black">AMAS</a>
@@ -65,7 +65,7 @@
                         <a href="" class=" mr-2 text-black">Yearly Recaps</a>
                         <a href="" class="text-black">| our Website</a>
             </div>
-            <div class="col-12 col-lg-5 py-3  ">
+            <div class="col-12 col-lg-5 py-3 ">
             <a href="" class="ml-5 mt-4">
             <i class="fab fa-search " style="font-size: 25px"></i>
         </a>
@@ -91,8 +91,7 @@
             <hr>
             <div class="container container-sm mt-5">
             <div class="row mx-auto">
-              <div data-aos="fade-up"
-     data-aos-duration="3000">
+            
             <div class="col-12 col-lg-7">
             <img src="{{asset('image/a3.jpg')}}" alt="" class="img-fluid mb-5">
             </div>
@@ -110,7 +109,7 @@
             <p>Jun 15 . 10 min read</p>
             
             </div>
-            </div>
+        
             
             </div>
             </div>
@@ -118,8 +117,7 @@
             </div>
             <div class="container container-sm">
             <div class="row mx-auto">
-              <div data-aos="fade-up"
-     data-aos-duration="3000">
+            
             <div class="col-12 col-lg-4">
             <img src="{{asset('image/a3.jpg')}}" alt="" class="img-fluid mb-2">
             <h4>ZKChas-Telegram </h1>
@@ -132,7 +130,7 @@
             <h5 class="text-danger">GAIN Associates</h4>
             <p>Jun 30 . 10 min read</p>
             
-            </div>
+            
             </div>
             </div>
             </div>
