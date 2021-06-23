@@ -486,10 +486,10 @@ system will warn us, and we can then put counter measures in place to hedge agai
                         <div class="container container-sm">
                         <div class="row mx-auto">
                         <div class="col-8 col-sm-12 col-md py-3">
-                        <a href="" class="text-white mr-2">About</a>
+                        <a href="/about" class="text-white mr-2">About</a>
                         <a href="" class="text-white mr-2">Term & Condition</a>
-                        <a href="" class="text-white mr-2">FAQ</a>
-                        <a href="" class="text-white">Contact</a>
+                        <a href="/faq" class="text-white mr-2">FAQ</a>
+                        <a href="/contact" class="text-white">Contact</a>
                         </div>
                         <div class="col-4 col-sm-12 col-md py-3 ">
                         <h6 class="text-white">&copy;2021 ProfitBank</h3>
