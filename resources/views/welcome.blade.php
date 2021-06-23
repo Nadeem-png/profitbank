@@ -316,14 +316,14 @@ background-color:white;
     </div>
     
     
-     <div class="offer">
+    <div class="offer">
        <div class="container container-sm">
-        <h1 class="text-center mt-5 text-white py-3" >ProfitBank Offers you</h1>
+       <h1 class="text-center mt-5 text-white py-3" >ProfitBank Offers you</h1>
           <div class="row">
-              <div data-aos="fade-up"
+          <div class="col-lg-4 col-12   text-center mt-5">
+          <div data-aos="fade-up"
      data-aos-duration="3000">
-      <div class="col-lg-4 col-sm-12 col-md-12   text-center mt-5">
-      <div class="card mb-3  text-center card2  text-white py-4 px-3">
+     <div class="card mb-3  text-center card2  text-white p-3">
        <div class="card-body">
           <img src="{{asset('image/images.png')}}" alt="" class="img-fluid text-center w-25 h-25 mt-5">
         <h5 class="text-center card-text text-dark mt-5">Staking</h5>
@@ -333,13 +333,13 @@ Earn returns the smartest way by staking and farming. Which will be invested in 
         </p>
         </div>
      </div>
-      </div>
-     
      </div>
-               <div data-aos="fade-up"
+          </div>
+
+          <div class="col-lg-4 col-12   text-center mt-5">
+          <div data-aos="fade-up"
      data-aos-duration="3000">
-      <div class="col-lg-4 col-sm-12 col-md-12   text-center mt-5">
-      <div class="card mb-3 text-center card2  text-white py-4 px-3">
+     <div class="card mb-3 text-center card2  text-white p-3">
        <div class="card-body">
          <img src="{{asset('image/c1.jpg')}}" alt="" class="img-fluid text-center w-25 h-25 mt-5" >
         <h5 class="text-center card-text text-dark mt-5">Pooling</h5>
@@ -349,13 +349,13 @@ Pooling PFB for pre-qualified projects for a fixed period. Returns are stated by
         </p>
         </div>
      </div>
-      </div>
-     
      </div>
-         <div data-aos="fade-up"
+          </div>
+          
+          <div class="col-lg-4 col-12   text-center mt-5">
+          <div data-aos="fade-up"
      data-aos-duration="3000">
-      <div class="col-lg-4 col-sm-12 col-md-12   text-center mt-5">
-      <div class="card mb-5 text-center card2  text-white py-4 px-3">
+     <div class="card mb-5 text-center card2  text-white p-3">
        <div class="card-body">
          <img src="{{asset('image/handship.jpg')}}" alt="" class="img-fluid text-center w-25 h-25 mt-5">
         <h5 class="text-center card-text text-dark mt-5">Rewards</h5>
@@ -365,17 +365,13 @@ Get rewarded for holding PBANK, the native PROFIT BANK token. We have expertly d
         </p>
         </div>
      </div>
-      </div>
-     
      </div>
-     
-     
-     
-     
-     
+          </div>
+
+
           </div>
        </div>
-     </div>
+       </div>
     
     
     
