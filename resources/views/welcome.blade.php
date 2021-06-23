@@ -255,7 +255,7 @@ background-color:white;
     <div class="card py-4 px-3 text-center rank">
     <div class="card-text text-white">
     <h4 class=" text-center mt-3">Silver</h4>
-    <h5 class="text-center">PROFIT SILVER FISHES</h5>
+  
     </div>
     
 <div class="card-text text-white mt-2">
@@ -270,7 +270,7 @@ background-color:white;
     <div class="card py-4 px-3 text-center rank">
     <div class="card-text text-white">
     <h4 class=" text-center mt-3">Gold</h4>
-    <h5 class="text-center">PROFIT SLEEK DOLPHINS</h5>
+    
     </div>
     
 <div class="card-text text-white mt-2">
@@ -285,7 +285,7 @@ background-color:white;
     <div class="card py-4 px-3 text-center rank">
     <div class="card-text text-white">
     <h4 class=" text-center mt-3">Platinum</h4>
-    <h5 class="text-center">PROFIT BLUE<br> WHALE</h5>
+    
     </div>
    
 <div class="card-text text-white mt-2">
@@ -300,7 +300,7 @@ background-color:white;
     <div class="card py-4 px-3 text-center rank">
     <div class="card-text text-white">
     <h4 class=" text-center mt-3">Diamond</h4>
-    <h5 class="text-center">PROFIT SLEEK DOLPHINS</h5>
+    
     </div>
 
 <div class="card-text text-white mt-2">
