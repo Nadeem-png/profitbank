@@ -143,15 +143,15 @@ You can also reach us at
             <i class="fab fa-telegram-plane text-white" style="font-size: 25px"></i>
         </a>
 
-        <a href="" class="ml-4  mb-2 mt-4">
-            <i class="fab fa-discord text-white" style="font-size: 25px"></i>
+        <a href="https://twitter.com/profitbankcoin?s=20" class="ml-4  mb-2 mt-4">
+            <i class="fab fa-twitter text-white" style="font-size: 25px"></i>
         </a>
 
         <a href="" class="ml-4  mb-2 mt-4">
             <i class="fab fa-facebook-f text-white" style="font-size: 25px"></i>
         </a>
 
-        <a href="" class="ml-4  mb-2 mt-4">
+        <a href="https://instagram.com/profitbankcoin?utm_medium=copy_link" class="ml-4  mb-2 mt-4">
             <i class="fab fa-instagram text-white" style="font-size: 25px"></i>
         </a>
 
