@@ -259,8 +259,7 @@ background-color:white;
     </div>
     
 <div class="card-text text-white mt-2">
-<h5 class="text-center">10,000 PROFIT</h5>
-                <h6 class="text-center">10% of allocations</h6>
+                <h6 class="text-center">05% of allocations</h6>
 </div>
     </div>
 
@@ -273,9 +272,8 @@ background-color:white;
     
     </div>
     
-<div class="card-text text-white mt-2">
-<h5 class="text-center">30,000 PROFIT</h5>
-                <h6 class="text-center">15% of allocations</h6>
+<div class="card-text text-white mt-2"> 
+                <h6 class="text-center">10% of allocations</h6>
 </div>
     </div>
 
@@ -289,8 +287,7 @@ background-color:white;
     </div>
    
 <div class="card-text text-white mt-2">
-<h5 class="text-center">200,000 PROFIT</h5>
-                <h6 class="text-center">50% of allocations</h6>
+                <h6 class="text-center">15% of allocations</h6>
 </div>
     </div>
 
@@ -304,8 +301,7 @@ background-color:white;
     </div>
 
 <div class="card-text text-white mt-2">
-<h5 class="text-center">100,000 PROFIT</h5>
-                <h6 class="text-center">25% of allocations</h6>
+                <h6 class="text-center">20% of allocations</h6>
 </div>
     </div>
 
