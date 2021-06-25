@@ -181,7 +181,7 @@ background-color:white;
     <h5 class= "text-white font-weight-bold p-4">
         Discover new projects  |  Participate in Events  |  Investment Opportunities
      </h5>
-     <a href="" class="btn btn-primary mb-3   px-5 py-3 b1 font-weight-bold">Join our Telegram Group &nbsp; <i class="fab fa-telegram-plane text-white fa-2x"></i></a>
+     <a href="https://t.me/officialprofitbankcoin" class="btn btn-primary mb-3   px-5 py-3 b1 font-weight-bold">Join our Telegram Group &nbsp; <i class="fab fa-telegram-plane text-white fa-2x"></i></a>
        
  </div>
 </div>
@@ -259,7 +259,7 @@ background-color:white;
     </div>
     
 <div class="card-text text-white mt-2">
-                <h6 class="text-center">05% of allocations</h6>
+                <h6 class="text-center">5% of allocations</h6>
 </div>
     </div>
 
@@ -441,7 +441,7 @@ system will warn us, and we can then put counter measures in place to hedge agai
     <div class="col-lg col-xs-12 col-sm-12 col-md-6 mb-2">
         <h4 class=" text-white mt-5 ml-5 mb-4">Connect with us:</h4>
 
-        <a href="" class="ml-5 mt-4">
+        <a href="https://t.me/officialprofitbankcoin" class="ml-5 mt-4">
             <i class="fab fa-telegram-plane text-white" style="font-size: 25px"></i>
         </a>
 
