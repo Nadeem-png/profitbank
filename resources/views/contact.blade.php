@@ -128,7 +128,7 @@
 <hr>
 <p class="py-4 text-center">
 You can also reach us at
-<a href=""> contact@Profitbank.finace
+<a href=""> info@profitbank.io
 </a></p>
 <footer class="footer" >
 <div class="container container-sm">
