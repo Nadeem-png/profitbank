@@ -237,13 +237,7 @@
             <i class="fab fa-instagram text-white" style="font-size: 25px"></i>
         </a>
 
-        <a href="" class="ml-4 mt-4">
-            <i class="fab fa-linkedin-in text-white" style="font-size: 25px"></i>
-        </a>
-
-        <a href="" class="ml-4 mt-4">
-            <i class="fab fa-medium-m text-white" style="font-size: 25px"></i>
-        </a>
+        
 
        
     </div>
