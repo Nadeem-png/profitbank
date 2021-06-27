@@ -169,7 +169,8 @@ background-color:white;
         </ul>
     </div>
 </nav>
-<div data-aos="zoom-in-right">
+<div data-aos="fade-right"
+     data-aos-offset="300">
      <div class="container container-sm " style="margin-top:80px">
 <div class="row d-flex justify-content-between align-items-center d-column text-white">
 <div class="col-12 col-lg-7">
