@@ -338,7 +338,7 @@ Earn returns the smartest way by staking and farming. Which will be invested in 
          <img src="{{asset('image/c1.jpg')}}" alt="" class="img-fluid text-center w-25 h-25 mt-5" >
         <h5 class="text-center card-text text-dark mt-5">Pooling</h5>
         <p class="text-center card-text text-dark">
-Pooling PFB for pre-qualified projects for a fixed period. Returns are stated by each pool and
+Pooling PBANK for pre-qualified projects for a fixed period. Returns are stated by each pool and
 			 they all have a minimum ROI, that is paid back in PBANK. 
         </p>
         </div>
@@ -449,21 +449,14 @@ system will warn us, and we can then put counter measures in place to hedge agai
             <i class="fab fa-twitter text-white" style="font-size: 25px"></i>
         </a>
 
-        <a href="" class="ml-4 mt-4">
-            <i class="fab fa-facebook-f text-white" style="font-size: 25px"></i>
-        </a>
+        
 
         <a href="https://instagram.com/profitbankcoin?utm_medium=copy_link" class="ml-4 mt-4">
             <i class="fab fa-instagram text-white" style="font-size: 25px"></i>
         </a>
 
-        <a href="" class="ml-4 mt-4">
-            <i class="fab fa-linkedin-in text-white" style="font-size: 25px"></i>
-        </a>
 
-        <a href="" class="ml-4 mt-4">
-            <i class="fab fa-medium-m text-white" style="font-size: 25px"></i>
-        </a>
+        
 
        
     </div>
