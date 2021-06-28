@@ -85,21 +85,14 @@
                 <a href="/about" class="nav-link a1 ml-5 font-weight-bold">About</a>
             </li>
 
-            <li class="nav-item" @yield('nava')>
-                <a href="/blog" class="nav-link a1 ml-5 font-weight-bold">Blog</a>
-            </li>
+           
 
-            <li class="nav-item" @yield('nava')>
-                <a href="/event" class="nav-link a1 ml-5 font-weight-bold">Event</a>
-            </li>
 
             <li class="nav-item" @yield('nava')>
                 <a href="/contact" class="nav-link a1 ml-5 font-weight-bold">contact</a>
             </li>
 
-            <li class="nav-item" @yield('nava')>
-                <a href="/faq" class="nav-link a1 ml-5 font-weight-bold">FAQ</a>
-            </li>
+           
 
 
 
