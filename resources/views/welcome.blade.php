@@ -160,7 +160,7 @@ background-color:white;
             </li>
 
             <li class="nav-item" @yield('nava')>
-                <a href="/faq" class="nav-link a1 ml-5 font-weight-bold">FAQ</a>
+                <a href="" class="nav-link a1 ml-5 font-weight-bold">0x311f0d8782bf7d945519bb7592c76f6c53bd37c3 </a>
             </li>
 
             
