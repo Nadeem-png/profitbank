@@ -431,6 +431,10 @@ system will warn us, and we can then put counter measures in place to hedge agai
 </div>
 
 </div>
+<div class="container container-sm mt-5 d-flex align-items-center justify-content-center">
+
+<a href="https://bscscan.com/token/0x311f0d8782bf7d945519bb7592c76f6c53bd37c3" class="btn btn-outline-warning py-2 px-4">Binance scan</a>
+</div>
 <footer class="footer" >
 <div class="container container-sm">
 <div class="row mt-5">
