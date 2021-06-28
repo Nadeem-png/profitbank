@@ -171,7 +171,7 @@ background-color:white;
  Decentralized Fund Management Protocol
     </h1>
      <h5 class= "text-white font-weight-bold px-4 ">Contract Address</h5>
-    <p class= "text-white font-weight-bold ">0x311f0d8782bf7d945519bb7592c76f6c53bd37c3</p>
+    <p class= "text-white font-weight-bold ">0x311f0d8782bf7d945519bb7592<br>c76f6c53bd37c3</p>
     <h5 class= "text-white font-weight-bold p-4">
         Discover new projects  |  Participate in Events  |  Investment Opportunities
      </h5>
