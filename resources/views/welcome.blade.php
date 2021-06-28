@@ -147,22 +147,15 @@ background-color:white;
                 <a href="/about" class="nav-link a1 ml-5 font-weight-bold">About</a>
             </li>
 
-            <li class="nav-item" @yield('nava')>
-                <a href="/blog" class="nav-link a1 ml-5 font-weight-bold">Blog</a>
-            </li>
+            
 
-            <li class="nav-item" @yield('nava')>
-                <a href="/event" class="nav-link a1 ml-5 font-weight-bold">Event</a>
-            </li>
+         
 
             <li class="nav-item" @yield('nava')>
                 <a href="/contact" class="nav-link a1 ml-5 font-weight-bold">contact</a>
             </li>
 
-            <li class="nav-item" @yield('nava')>
-                <a href="" class="nav-link a1 ml-5 font-weight-bold">0x311f0d8782bf7d945519bb7592c76f6c53bd37c3 </a>
-            </li>
-
+           
             
 
 
@@ -177,6 +170,8 @@ background-color:white;
 <h1 class= "text-white font-weight-bold p-4">
  Decentralized Fund Management Protocol
     </h1>
+     <h5 class= "text-white font-weight-bold px-4 ">Contract Address</h5>
+    <p class= "text-white font-weight-bold px-4 ">0x311f0d8782bf7d945519bb7592c76f6c53bd37c3</p>
     <h5 class= "text-white font-weight-bold p-4">
         Discover new projects  |  Participate in Events  |  Investment Opportunities
      </h5>
