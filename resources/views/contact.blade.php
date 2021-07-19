@@ -11,7 +11,44 @@
     <script src="js/bootstrap.min.js"></script>
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.7.0/css/all.css' integrity='sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ' crossorigin='anonymous'>
-    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script>  
+    $(document).ready(function() {
+      $('.error').hide();
+      $('#submit').click(function(){
+        var name = $('#name').val();
+        var email = $('#email').val();
+
+        if(name== ''){
+          $('#name').next().show();
+          return false;
+        }
+        if(email== ''){
+          $('#email').next().show();
+          return false;
+        }
+        if(IsEmail(email)==false){
+          $('#invalid_email').show();
+          return false;
+        }
+        $.post("", $("#myform").serialize(),  function(response) {
+          $('#myform').fadeOut('slow',function(){
+          $('#correct').html(response);
+          $('#correct').fadeIn('slow');
+       });
+     });
+    return false;
+  });
+ });
+ function IsEmail(email) {
+  var regex = /^([a-zA-Z0-9_\.\-\+])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+  if(!regex.test(email)) {
+    return false;
+  }else{
+    return true;
+  }
+}
+</script>
     <style>
         *{
             margin:0;
@@ -82,6 +119,27 @@
         </ul>
     </div>
 </nav>
+<form action="" method="post" id="contactform">
+  <table class="mytable">
+    <tr>
+     <td><label for="name">Name :</label></td>
+     <td class="name"> <input name="name" id="name" type="text" placeholder="Please enter your name" class="contact-input"><span class="error">Enter your name here</span></td>
+    </tr>
+    <tr>
+     <td><label for="email">Email :</label></td>
+       <td class="email"><input name="email" id="email" type="text" placeholder="Please enter your email" class="contact-input"><span class="error">Enter your email-id here</span>
+         <span class="error" id="invalid_email">Email-id is invalid</span>
+       </td>
+     </td>
+    </tr>
+    <tr>
+     <input type="submit" class="contactform-buttons" id="submit"value="Send" />
+     <input type="reset" class="contactform-buttons" id="" value="Clear" />
+   </tr>
+  </tr>
+</table>
+</form>
+  <div id="correct" style="color:gray;"></div>
 <div class="bg-contact">
 <h1 class="text-center p-4  w-100">Contact Us</h1>
 </div>
